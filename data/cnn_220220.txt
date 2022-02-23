@@ -1,0 +1,757 @@
+Sticker shock: 80% of car buyers now paying above suggested retail price
+
+New York (CNN Business)Only a year ago almost no one paid the full sticker price when buying a new car. Now you're lucky if you can.
+In perhaps the most striking sign of the change in new car pricing, 80% of new car buyers in January paid more than manufacturer's suggested retail price, or MSRP, according to data from Edmunds, the online site that tracks car rankings and prices. That's what's commonly known as sticker price.
+It's the latest manifestation of the fact that a shortage of parts, especially computer chips, has caused automakers to temporarily halt production at various plants. That has left dealers with fewer vehicles than they need to meet customer demand.
+That has resulted the average transaction price hitting $45,717 in January, or $728 above MSRP.
+It's up nearly $6,000, or 15%, from January a year ago, and about $7,500 higher than the average price paid in January 2020, just before the pandemic started roiling the auto industry.
+Only 2% of buyers paid above MSRP a year ago, with buyers paying on average about $2,150 less than sticker at that time.
+"Demand is through the roof, and supplies are historically tight," said Ivan Drury, senior manager of insights for Edmunds. He said if a buyer isn't willing to pay above the sticker price, the dealer can be confident there will soon be another buyer who will.
+"We're talking only a 10- to 11-day average for the time vehicles are on the lot," he said. "We've never seen that."
+Part of the increase in pricing is because consumers are increasingly buying more SUVs and pickups and fewer sedans, which are typically less expensive. They're also choosing more expensive options, such as automatic braking and lane departure warnings that are designed to make the cars safer.
+But the biggest factor behind the price increases is the shortage of cars.
+The only good news for car buyers is that used car prices are going up even faster than new car prices, due to an even tighter supply of vehicles in that market. The average value of a trade-in has increased $8,000 in the last year, according to Edmunds.
+Dealers are the big winners
+The biggest winners from the current prices: auto dealers, and not the automakers. Until Tesla came along with its company-owned stores and direct sales to consumers, all automakers used a network of independent businesses to sell cars to American buyers. Dealers would buy cars wholesale at set prices from automakers. The price paid by consumers were then negotiated with the dealer.
+So while automakers benefit from not having to offer some of the cash-back offers or other incentives to boost demand, the auto dealers are reporting booming profits that come from the higher prices.
+AutoNation (AN), the nation's largest car dealership, just reported record quarterly and annual profits Thursday, even though it sold only 2% of the new cars above MSRP in 2021. It did so by selling cars at or near sticker price far more often than in the past.
+But many car buyers are upset with the idea of paying over sticker price. And their worries are causing concern among some of the automakers themselves.
+Both General Motors (GM) and Ford (F) have sent letters to their dealers telling them that they could have their allocation of new vehicles reduced and redirected to other dealers if it's determined they're engaged in what the automakers consider abusive practices.
+In particular, GM and Ford are concerned that customers who have put down a deposit for a reservation for upcoming models, particularly EV models like the Ford F-150 Lightning, are being told that they must pay thousands above the list price they expected to pay. Nearly 200,000 Ford customers made deposits for a Lightning, for example, and GM has similar reservation list for some of its recent and upcoming EVs, such as the GMC Hummer EV pickup and the Cadillac Lyriq.
+"It has come to our attention that in connection with some of these announcements and launches, a small number of dealers have engaged in practices that do not support a positive sales experience for our customers," said a letter that Steve Carlisle, president of GM North America, sent to dealers. "Specifically, it has come to our attention that some dealerships have attempted to demand money above and beyond the reservation amounts set in GM's program rules and/or have requested customers to pay sums far in excess of MSRP in order to purchase or lease a vehicle."
+Ford spokesperson Said Deep said that Ford has notified dealers about similar concerns surrounding the Lightning, which is due to start production in the spring; customers with reservations could start completing their orders starting on January 4. He added that the company also is looking at the large premiums for other hot models, including the Mustang Mach-E and the Bronco, a gasoline powered car.
+But neither automaker said they are outright prohibiting the widespread use of charging over list price by dealers, only when the price is "far in excess" of that benchmark.
+AutoNation CEO Michael Manley, who was previously CEO of Fiat Chrysler before it merged with France's PSA Group to form Stellantis, said he didn't believe pricing over sticker is a problem for the industry's reputation. He says prices should be close to the MSRP, and he hopes and expects prices to be closer to that level even once the supply of vehicles is no longer constrained.
+"The levels of profitability for both [automaker] and dealers clearly show the benefits of selling vehicles at MSRP. And what a concept, right? Selling at MSRP," he said to investors. "I think it's equally clear that significant discounting and high incentives can also damage a brand, which is another reason for our industry to balance appropriately supply and demand."
+If he's right, that means the days of paying thousands below sticker are over.
+Paying over MSRP is not going away any time soon, according to Drury, of Edmunds. With projections that supply of vehicles could remain tight into the second half of this year, it could be 2023 before paying over sticker price becomes rare once again.
+
+
+
+Uber now lets you see how many one-star ratings you received from drivers
+
+New York (CNN Business)Confused how you ended up with a low rating on Uber? A new feature will offer a bit more insight.
+Uber on Wednesday announced an option that lets you see a breakdown of how many drivers left you a one-star rating, a five-star rating and other ratings in between. Previously users of the ride share app were only able to see their average rating.
+Finding the rating breakdown requires several steps. First, open the Settings menu of the app, tap Privacy and then Privacy Center. Once there, swipe to the right and click on the option: "would you like to see a summary of how you use Uber." Next, scroll to the "browse your data" section and tap on "view my ratings." (You can also access the information on Uber's website.)
+The goal of the new feature, according to Uber, is to offer customers a better understanding of their current rating, which is based on their most recent 500 trips on the platform, and to incentivize good behavior during rides.
+"We hope that by giving users a peek into how their rating is calculated, we can help encourage positive experiences between riders and drivers on every trip," said Zach Singleton, head of privacy and equity products at Uber (UBER).
+Uber said all identifying information is kept anonymous for safety reasons.
+Uber relies on a two-way rating system in an effort to hold passengers and drivers accountable during rides. Drivers and riders with lower ratings risk being deactivated from the platform. The threshold for being deactivated varies from city to city, as the company accounts for a variety of factors when determining the point of user termination.
+Uber revealed on Wednesday that the US city with the lowest average rider rating is New York, followed by Seattle and Washington, D.C. San Antonio, Texas topped the list of cities with the best average rider rating.
+To keep their ratings high, Uber advises riders to clean up after themselves, buckle their seatbelts, be ready on time, be respectful and avoid slamming the door.
+
+
+
+These apps are trying to put car dealers out of business
+
+London (CNN Business)City dwellers are used to switching between apps to decide the best way to get from A to B. Is it quickest to get the train or the bus? What about a taxi or a city bike? Which provider has the nearest e-scooter?
+It can be inconvenient and time consuming. Which is why Finnish startup MaaS Global decided to aggregate all these services into one app called Whim. Available in more than 10 cities across Europe and Asia, users can access taxis, buses, bikes, e-scooters and rental cars.
+"Whim's sole purpose is to compete against car ownership," CEO Sampo Hietanen tells CNN Business.
+According to the International Energy Agency, transport is responsible for 24% of global energy-related CO2 emissions, most of which come from passenger vehicles. If Whim can persuade users to trade their car keys for a single app offering multiple transport options, the environmental impact could be enormous, says Hietanen.
+Car competition
+He admits this isn't an easy task. To succeed Whim has to be more convenient and cheaper than owning a car. "The car represents freedom of mobility," says Hietanen — even if a city dweller barely uses it, they still keep it parked outside as a "freedom insurance."
+To compete, Whim offers rental cars and taxis, but Hietanen says that users tend to opt for public transport or micromobility (shared lightweight vehicles such as bikes or e-scooters).
+Users can choose between multiple tiers of service, including a pay-as-you-go option and a 30-day season ticket, which costs €62 ($73) in Helsinki — where the app is most established — for unlimited public transport and short taxi rides. The ticket also offers car rental from €55 ($65) per day.
+While Helsinki has well-developed alternatives to driving, that's not true of everywhere. If a city "does not have a wide public transport system or a lot of rental cars or taxis in place" then it will be difficult to convince people to give up their cars, says Maria Kamargianni, associate professor of transport and energy at University College London.
+She says apps like Whim represent the first step in tempting people away from car ownership, and adds that the availability of alternative transport options is likely to improve as the market matures. Research firm MarketsandMarkets predicts the global mobility service market will grow from $4.7 billion in 2020 to $70.4 billion by 2030.
+MaaS movement
+Other providers include Citymapper, which launched a travel pass for Londoners in 2019, and Moovit, which launched an all-in-one mobility app in Israel last year.
+Whim, launched in 2016, is one of the earliest providers and has raised more than $60 million from investors such as BP (BP), Mitsubishi (MBFJF) and Toyota Financial Services. It's available in several European cities and in Tokyo, and has racked up 18 million trips globally since launch.
+But the business has been hit by the Covid-19 pandemic, says Hietanen; with fewer people traveling, revenues are lower, stalling the company's expansion into other cities.
+Finnish newspaper Helsingin Sanomat recently reported that the company had spent €50 million ($59 million) on failed expansion ventures. Hietanen says the money was spent on integrating multiple transportation providers, establishing market readiness in several countries, and developing the complex technology that underpins the app.
+"We've known from the beginning that the investment needed to create this would be substantial," he says, adding that the company has recently secured further investment.
+Greener travel
+Though the industry is in its infancy, Hietanen is confident the demand will be there. A recent report from the International Transport Forum (ITF) says that mobility services will be vital in meeting the needs of a growing world population and fast-paced urbanization. But for growth to happen, "people must choose it over other travel options" such as private motor vehicles.
+This is already happening, says Hietanen. According to a company survey carried out in Helsinki, 12% of its users said that Whim had prompted them to give up their cars. "People want the more sustainable solution," he says, "but they still want the freedom of being able to go anywhere, anytime."
+
+
+
+Electric robots are mapping the seafloor, Earth's last frontier
+
+(CNN Business)For centuries, humans have explored the Earth's mountains, jungles and deserts. But despite covering more than 70% of the Earth's surface, the ocean is still a relative mystery. In fact, we know more about the surface of Mars than we do about the sea floor; just over 20% of the ocean bed has been mapped.
+Getting a fuller picture would enable us to navigate ships more safely, create more accurate climate models, lay down telecommunication cables, build offshore windfarms and protect marine species -- all part of what's known as the "blue economy," projected to be worth $3 trillion by 2030.
+Underwater robotic vehicles equipped with sensors are helping gather that data quicker and more cheaply than ever before. But many of these vehicles rely on batteries with a limited lifespan, and need to return to a boat or the shore to recharge, making it difficult for them to map more remote parts of the sea.
+A five-year-old startup called Seatrec is rising to the challenge, founded by oceanographer Yi Chao. While working at NASA, he developed technology to power ocean robots by harnessing "the naturally occurring temperature difference" of the sea, Chao told CNN Business.
+Greener and cheaper
+The power module can be installed on existing data-gathering robots or Seatrec's own floating device. This dives a kilometer down to examine the chemistry and shape of the seabed, using sonar to create a map of the surrounding area. The robot returns to the surface to send back its findings via satellite.
+As the float moves between colder and warmer parts of the ocean, material inside the module either melts or solidifies, causing pressure that in turn creates thermal energy and powers the robot's generator.
+"They get charged by the sea, so they can extend their lifetime almost indefinitely," Chao said.
+A basic float model typically costs around $20,000. Attaching Seatrec's energy system adds another $25,000, Chao said.
+But the access to free, renewable energy and the ability to stay in the water longer makes data gathering up to five times cheaper in the long run, according to Chao. He said the startup is making fewer than 100 devices per year, primarily for marine researchers, but the technology is easily scalable -- Seatrec's energy module can also be can be retrofitted onto existing mapping devices to extend their range.
+Picking up the pace
+New technologies that can extend the reach of data-gathering devices are crucial for mapping more remote parts of the deep sea, according Jamie McMichael-Phillips, director of the Nippon Foundation-GEBCO Seabed 2030 Project.
+"One of the huge challenges we have is quite simply physics," said McMichael-Phillips. "Unlike mapping the Earth's surface where we can use a camera [or] satellites, at sea, light does not penetrate through the water column. So we're pretty much limited to using sonar systems."
+Launched in 2017, the Seabed 2030 Project has increased awareness about the importance of the ocean floor, and given researchers and companies a clear goal to work towards: map the entire seafloor by the end of this decade.
+Some companies, such as XOCEAN, are surveying the ocean from the surface. Another startup, Bedrock Ocean Exploration, says it can provide surveys of seabed areas up to 10 times faster than traditional methods by using an autonomous electric submarine fitted with sonars, cameras and lasers; the data is then analyzed on Bedrock's own cloud platform.
+The challenge ahead
+Even with the growing number of technologies accelerating seabed exploration, completing the map is still a logistical and financial challenge.
+Chao estimates that it would take 3,000 of Seatrec's floats operating over the next 10 years to fully survey the ocean. The company has raised $2 million in seed funding to scale up production of its energy harvesting system.
+But this is a drop in the ocean of the capital needed to fully survey the ocean, which is estimated to be "somewhere between $3 to $5 billion," according to McMichael-Phillips -- "pretty much the same order of magnitude as the cost of sending a mission to Mars."
+Bedrock's DiMare believes it's time we start investing in our own planet.
+"If we want to keep Earth as a place that humans can live," he said, "we have got to get a lot smarter about what's going on in the ocean."
+
+
+
+Google plans to change Android app tracking in a bid to improve user privacy
+
+New York (CNN Business)Google (GOOG) plans to develop new privacy measures that remove the ability to track users across apps on Android devices, potentially rattling digital advertising-based businesses like Facebook that have already been disrupted by app tracking changes introduced by Apple last year.
+Google said Wednesday that it is launching a multi-year effort to build privacy-focused advertising solutions that will limit the sharing of user data with third parties. These solutions will operate without the individual identifiers that allow developers to track user activity across various mobile apps and enable them to create ads targeted to a user's behavior and interests. Google (GOOGL) said it is also exploring technologies that would reduce the potential for a user's data to be collected without their knowledge.
+The announcement — which comes as Google and other Big Tech companies face mounting regulatory scrutiny for privacy concerns and other issues — was light on specific details about how the new system would work. But it was enough to unnerve some investors in companies reliant on targeted digital advertising. Shares of Facebook-parent Meta (FB), Snap (SNAP), Twitter (TWTR) and Pinterest (PINS) all dipped in early trading Wednesday following the announcement.
+Some of those companies have already taken a financial hit in recent months after Apple implemented changes in its iOS 14.5 update last Spring with the aim of giving users greater privacy and control over their data. The change — which gives users the option to opt-out of having apps track their behavior — contributed to a more than $200 billion market value decline for Meta after it reported earnings results earlier this month. Meta said the app tracking change is expected to have a $10 billion impact on its bottom line this year.
+However, Google noted that it plans to work with developers to build the new system and said, without naming Apple, that it won't take the same "blunt," opt-out approach that the iPhone maker has taken, which could provide some reassurance to app companies and advertisers.
+"We believe that — without first providing a privacy-preserving alternative path — such approaches can be ineffective and lead to worse outcomes for user privacy and developer businesses," Anthony Chavez, vice president of product management for Android security and privacy, said in a blog post.
+Chavez also noted that Google plans to continue supporting its existing tracking system for at least two years and will provide "substantial notice" to the industry about how the changes will work.
+Asked for comment about Google's announcement and its potential impact on Meta's business, a spokesperson for the social media company pointed to a tweet by Dennis Buchheim, the company's advertising ecosystem vice president. "Encouraging to see this long-term, collaborative approach to privacy-protective personalized advertising from Google," Buchheim said of Wednesday's announcement.
+Google's announcement comes as the company is also working to replace third-party cookies, which can be used to track users' behavior across the web, with a more privacy-focused solution on its Chrome browser. That effort, which was initially slated to roll out this year, has hit some snags as Google attempts to balance the input of advertisers and privacy experts.
+It also comes as European regulators crack down on the data privacy practices of Big Tech companies and as US regulators and lawmakers have increasingly raised concerns about dominant online giants preferencing their own products and services on their platforms. Google said it has committed not to prioritize its own ad products or sites with its privacy changes on the web, and will do the same on Android.
+
+
+
+Apple plans AirTag updates to curb unwanted tracking
+
+(CNN)Apple (AAPL) said Thursday it plans to add more safeguards to AirTags to cut down on unwanted tracking following reports that the devices have been used to stalk people and steal cars.
+In a blog post, Apple said it has worked with safety groups and law enforcement agencies to identify more ways to update its AirTag safety warnings, including alerting people sooner if the small Bluetooth tracker is suspected to be tracking someone. (Right now, it can take hours for an AirTag to chirp if it has been separated from its owner.)
+Other updates coming later this year include tweaking the tracker's tone sequence so the device is louder and easier to find, and allowing someone to see its distance and direction of an AirTag through the iOS precision finding tool. In addition, Apple will warn AirTag users during the setup process that tracking people without their consent is a crime.
+Last Spring, Apple launched the $29 Tile-like Bluetooth locators that attach to and help users find items such as keys, wallets, laptops or a car, giving nearly anything a digital footprint.
+"We've become aware that individuals can receive unwanted tracking alerts for benign reasons, such as when borrowing someone's keys with an AirTag attached, or when traveling in a car with a family member's AirPods left inside," the company said in a statement. "We also have seen reports of bad actors attempting to misuse AirTag for malicious or criminal purposes."
+"We condemn in the strongest possible terms any malicious use of our products," the company said.
+Location trackers aren't new — there are similar products from Samsung, Sony and Tile. The issue of unwanted tracking also "existed long before AirTags came on the market," according to Erica Olsen, director of the Safety Net Project at the National Network to End Domestic Violence.
+"We are happy Apple is engaging in the conversation about victim safety and are continuing to improve safeguards. We hope others will follow their lead," Olsen said.
+While only iOS users receive an automatic alert about potential unwanted tracking from an AirTag, Android users can use Apple's Tracker Detection app, a work around with some limitations. It must be open to locate a tracker.
+Apple said in the blog post it remains "committed to listening to feedback and innovating to make improvements."
+
+
+
+After face-recognition backlash, ID.me says government agencies will get more verification options
+
+(CNN Business)On Monday, the Internal Revenue Service halted a plan that would have forced taxpayers to verify their identities with facial recognition software before signing on to its website.
+A day later, the company behind that software, ID.me, said it will make it possible for people to skip the controversial technology to prove who they are before accessing some online services from government agencies.
+ID.me CEO and founder Blake Hall said in a press release Tuesday that the company is making it possible for government agencies to give users the option to verify their identity — a one-time process — by talking to a human agent, rather than using ID.me's software. Otherwise, a user would need to take a picture of a photo ID, like a driver's license or passport, and then take a video selfie with a smartphone or computer so software could compare the two.
+This is a change from what the company typically does, as users tend to only be routed to a video call with a human agent if they fail the facial-recognition step a few times.
+McLean, Virginia-based ID.me is a fast-growing company that often uses facial recognition software as part of its identity-verification process. ID.me also verifies identities for 30 state unemployment agencies, as well as a growing number of US federal agencies, including the Treasury Department and the Social Security Administration.
+The company has faced concerns from privacy advocates over its use of facial-recognition technology, as well as complaints from users who say they have spent hours waiting to have their identities verified via video chat after failing to pass the company's facial recognition step.
+ID.me also said that, starting March 1, it will allow ID.me users to delete the selfie tied to their account online at account.ID.me. In the past, ID.me has said it does not sell its user data — which includes biometric and related information, such as selfies people upload, data related to facial analyses, and recordings of user video chats — but it does keep such information. Biometric data, like the facial geometry produced from a user's selfie, may be kept for years after a user closes their account.
+The changes come shortly after the IRS, following backlash from lawmakers and privacy groups, said on Monday that it would "transition away" from using facial recognition software via ID.me to verify people for online accounts. Once a user had been authenticated via ID.me, they would be able to sign on to the IRS's website to request an online tax transcript or see information regarding tax payments or economic impact payments. The process had been optional for those who already had an IRS username and password, but those were set to stop working this summer.
+The IRS's plan was announced in November, but gained attention and scrutiny from privacy advocates as tax season begins and millions of people visit the agency's site.
+Some other federal agencies are also weighing whether to continue using ID.me. Drew Hirshfeld, performing the functions and duties of the director of the United States Patent and Trademark Office, told CNN Business in a statement on Tuesday that USPTO is "re-evaluating" its options "in light of recent reports." As of April 9, USPTO is set to start requiring anyone who wants to file for a trademark to first verify their identity with ID.me or with a paper form through the mail.
+A spokesperson for the Department of Veterans Affairs, which offers ID.me as an option for logging in to its website but does not use facial-recognition software for its authentication process, said the agency's current "option year" on its contract with the company ends April 30. The VA has two more option years available after that, and the spokesperson said it's "in the process of reviewing market research results" to decide what to do next.
+
+
+
+Meta agrees to pay $90 million to settle lawsuit over Facebook tracking users' online activity
+
+New York (CNN Business)Facebook (FB)-parent Meta has agreed to pay $90 million to settle a decade-old class action lawsuit over a practice that allowed the social network to track users' activity across the internet, even if they had logged out of the platform.
+The settlement, announced on Tuesday, is one of the largest in the history of the social media company, but it's unlikely to impact the bottom line of the $590 billion internet giant. If approved, the agreement will also rank among the 10 largest data privacy class action settlements in the United States, according to DiCello Levitt Gutzler, one of the law firms involved in bringing the case.
+"Reaching a settlement in this case, which is more than a decade old, is in the best interest of our community and our shareholders and we're glad to move past this issue," Meta spokesperson Drew Pusateri said in a statement to CNN Business. The company has denied any wrongdoing as part of the deal.
+The case, filed in 2012, dates back to a 2010 update by Facebook called "Open Graph," which was designed to give users' friends a closer look at their activity and interests across the internet. As part of the update, the company launched a "Like" button plug-in on sites across the internet, which users could hit to highlight their interests to their Facebook networks.
+The "Like" button plug-in also allowed Facebook to gather data, using cookies, about users' activity on that site — including, for example, what sites they visit, items they viewed or purchased, and communications they had with that site — regardless of whether the user actually used the button or even knew it was there, according to court documents.
+To alleviate privacy concerns, the company said at the time that it would not collect user-identifying cookies about a user's activity on partner websites while they were logged out of Facebook. However, researchers found that Facebook continued to collect some identifying cookies on users' internet activity even after they logged out of the platform, contrary to its promise. After the issue was publicized in 2011, Facebook initially defended the practice but later issued a fix and clarified its policies. The class members in the case accused the company of breach of contract.
+The legal battle dragged on for years. In 2017, after the plaintiffs had submitted a third updated complaint, a judge granted Facebook's motion to dismiss the case. Plaintiffs appealed the dismissal and in 2020, the US Court of Appeals for the Ninth Circuit partly reversed the decision. Facebook appealed the decision to the Supreme Court, which declined to hear the case, opening the door for the parties to begin negotiating the settlement.
+The settlement applies to US Facebook users who had an account between April 22, 2010, and September 26, 2011, and who visited non-Facebook websites that displayed the "Like" button, a list that included everything from Pandora to ESPN.
+As part of the settlement, Meta agreed to delete the user data it collected through this practice.
+"It's truly a wake-up call for internet and advertising companies who collect user data and use advanced browser tracking," Stephen Grygiel, one of the lead attorneys representing the class members, said in a statement about the settlement.
+
+
+
+India's got the next big thing in tech, and it could be worth $1 trillion
+
+New Delhi (CNN Business)More than two decades ago, India began its transformation into a global IT powerhouse, ushering in an era of wealth and job creation never before seen in the country.
+Now, Asia's third largest economy is ready for the next big frontier in tech: Coming up with a new generation of software companies like Zoom or Slack.
+The Covid-19 pandemic has forced business around the world to make huge investments in digital infrastructure, furthering the influence of companies providing software-as-a-service, or SaaS. Businesses spent an extra $15 billion per week last year on tech as they scrambled to create safe remote working environments, according to a KPMG survey.
+SaaS companies provide web-based applications that take care of everything from how secure the software is to how well it performs. Some of the world's most well-known SaaS companies include Zoom (ZM), SAP Concur and Salesforce (CRM), the American behemoth that owns workplace messaging app Slack.
+India's software-as-a-service industry could be worth $1 trillion in value by 2030 and create nearly half a million new jobs, according to a recent report compiled by consulting firm McKinsey & Co. and SaaSBoomi, a community of industry leaders.
+There are nearly a thousand such companies in India, of which 10 are unicorns, or startups worth at least $1 billion, the report said.
+"This can be as big an opportunity as the IT services industry was in the 90s," said Girish Mathrubootham, CEO of Freshworks, India's best-known SaaS company. It filed for an IPO last month, joining a string of other major Indian tech unicorns that are going public this year.
+Freshworks was founded more than a decade ago in the southern Indian city of Chennai. Like Salesforce, it provides software to help companies manage relations with their customers. It's also India's oldest unicorn in the sector, having raised funds from investors such as Tiger Global and Accel, and has more than 50,000 customers. The company was last valued at $3.5 billion in a 2019 funding round, according to data firm Tracxn.
+Other Indian SaaS firms have found traction by focusing on niche businesses. Zenoti, for example, is a unicorn that builds software for the spa and beauty salon industry.
+Of India's 10 SaaS unicorns, six reached that milestone in 2020, and investors around the world are paying attention. Last year, investors pumped $1.5 billion into Indian SaaS companies, four times more than in 2018 or 2019, according to the SaaSBoomi report.
+Bullish investors
+Investors are excited about SaaS because of the "massive adoption" of software over the last decade, according to Mohit Bhatnagar, managing director of Sequoia Capital India.
+While India is a small player in the global SaaS market, investors say the country could eventually dominate the sector because of two things: its vast pool of English-speaking developers, and the relatively low cost of hiring them.
+Thanks to the rise of India's IT industry, software engineering has become one of the most sought-after career options in the country.
+"India actually has one of the largest developer communities in the world," Bhatnagar told CNN Business. Many of them have worked at some of the biggest global tech companies.
+Abhinav Asthana, the co-founder of Postman, pointed to his experience working as an intern at Yahoo in Bengaluru as instrumental in the decision to build his product.
+He came up with the idea to build a tool that would simplify the API (Application Programming Interface) testing process. An API is a programming code that defines how two applications communicate with each other, and Postman says it has made it easier for engineers to work together as they design and build their APIs.
+"We saw how software was created at these global companies, and we saw API was a key problem," Asthana told CNN Business.
+Now, Postman is India's most valuable SaaS unicorn, with a valuation of $5.6 billion.
+International clients, Indian engineers
+The low cost of operating in India is a big plus. According to a report by consulting firm Bain & Company, the salary of entry-level developers in India is 85% less than their counterparts in the United States.
+"If you are building a SaaS company in the US, it is better to have a million-dollar client rather than a $10,000-client because you need to pay for sales and marketing in that country," said Prasanna Krishnamoorthy, managing partner at SaaS accelerator Upekkha. "When you are serving customers from India, you can have these small and mid-sized companies, as well as large ones."
+Most SaaS companies focus on global clients, similar to the strategy that was followed by India's IT giants such as TCS and Infosys (INFY). Investors see this as a welcome change, since most of India's oldest unicorns — from Flipkart to Paytm — have focused primarily on the domestic market.
+Almost 98% of Fortune 500 companies use Postman's products, according to Asthana, while Freshworks' first client was based in Australia.
+SaaS firms are much better placed to go global than e-commerce companies like India's Flipkart, for example. They write software once, and then are able to use it multiple times.
+"For a Flipkart you need billions of dollars [to grow internationally], but for a Freshwork you need much less capital to go global," said Mathrubootham, who is also an investor in Postman. This is because e-commerce firms require a ton of money to set up physical operations elsewhere — they have to hire delivery drivers, rent warehouses and buy inventory.
+Bhatnagar of Sequoia Capital said that Indian software entrepreneurs "mastered" the art of "remote sales" fairly early. "Honestly, in this last two years, the whole world has had to understand how to do better remote sales," he added.
+Despite the euphoria, there are some hurdles Indian companies have to overcome before they can deliver on the $1 trillion promise.
+Indian engineers trained in the IT services industry may find it hard to develop the discipline required to build a product-focused company.
+In IT services, "you are selling bodies and you say yes to everything the customer says," said Krishnamoorthy. SaaS companies, on the other hand, have to say no to 99% of [potential] customers, he added.
+And India's startup ecosytem is still relatively immature when compared to Silicon Valley. Despite the massive size of some homegrown unicorns, Mathrubootham said that the country does not have a "global tech powerhouse product brand."
+But he hoped that future SaaS companies can change that.
+"It is my personal dream to see India as a product nation," he added.
+
+
+
+India's billionaire vaccine prince held the key to ending the pandemic. His plans went awry
+
+As Covid-19 wreaked havoc around the world last year, the 39-year-old son of an Indian billionaire was laying the groundwork for a plan he hoped would eventually end the pandemic.
+Adar Poonawalla — the CEO of Serum Institute of India (SII), the world's largest vaccine maker — pumped hundreds of millions of dollars into his Indian manufacturing facility and committed to make millions of doses of a then-unproven coronavirus vaccine.
+That vaccine, created by Oxford University and AstraZeneca (AZN), was still in clinical trials at the time. Nobody was sure how long a vaccine would take to develop, let alone whether it would even work.
+"It was a calculated risk," Poonawalla told CNN Business. "But I didn't see the choice at that time, to be honest. I just felt I'd regret not committing one way or another."
+To make his plan work, Poonawalla first had to raise nearly $1 billion. And the lives of hundreds of millions of the planet's most vulnerable people were at stake, since SII had pledged to provide poorer countries with jabs. If the gamble paid off, Poonawalla would save countless lives and be hailed as a hero during a period of historic turmoil. His fabulously rich family also would stand to grow even more wealthy by profiting from a significant deal.
+As the world gave its money — and trust — to Poonawalla, things seemed to be going according to plan. The AstraZeneca vaccine received approval from UK regulators in December 2020, and Poonawalla became a household name in India.
+But soon it became evident how badly Poonawalla had miscalculated the challenges that come with distributing millions of vaccines in the middle of a once-in-a-century pandemic.
+His company's ability to inoculate even his own countrymen was thrown into doubt earlier this year as a devastating wave of coronavirus hit India. He's also failed to keep up with his commitment to deliver shots to other nations — the consequences of which have dented his reputation and shed light on the perils of such heavy reliance on one manufacturer.
+From horse breeders to vaccine makers
+It's easy to see why some of the biggest names in public health chose to rely on Poonawalla.
+Few manufacturers can come close to the scale at which SII is able to produce vaccines. The company — which was founded by Poonawalla's father, Cyrus, 55 years ago — produces 1.5 billion vaccines each year for measles, rubella, tetanus and many other diseases. The jabs are mainly distributed to low-income countries worldwide, including India. Poonawalla estimates that just over 50% of the world's babies depend on vaccines made at SII.
+The Poonawalla family charted an unusual path to becoming one of the world's preeminent vaccine makers. They have bred and raced thoroughbred horses since the 1940s, diversifying into pharmaceuticals, finance and real estate over the last half-century.
+Cyrus Poonawalla is now India's seventh-richest man, worth more than $16 billion, according to the Bloomberg Billionaire Index. His son Adar took over as CEO in 2011 and has focused on expanding in international markets.
+To prepare for the AstraZeneca vaccine production, Poonawalla said he spent $800 million on buying chemicals, glass vials and other raw materials, as well as ramping up manufacturing capacity at his plant in the Western Indian city of Pune.
+More than $250 million came from the company's own funds. Another $300 million came from the Bill and Melinda Gates Foundation, which SII collaborated with to provide discounted or free doses to low-income countries. The rest was paid by other countries once SII started accepting orders for vaccines. In total, SII agreed to make up to 200 million vaccine doses for as many as 92 countries, as part of its deal with the Gates Foundation and Gavi, a vaccine alliance.
+All of that happened, though, before regulators signed off on the AstraZeneca vaccine. Had trials for that vaccine been unsuccessful, SII would "just be making batches and then end up throwing them away," Poonawalla said.
+A business studies graduate of London's University of Westminster, Poonawalla said SII was able to make that decision more swiftly than many other companies, since it is a family-run business.
+"The flexibility of being able to decide on the spot very quickly was really the main game-changer that enabled us to be able to do this," said Poonawalla, whose office in India is a refurbished Airbus A320.
+After UK regulators approved the vaccine, Poonawalla began supplying doses to Indians and other other countries. By May, Gavi had received some 30 million jabs from SII.
+India's Covid-19 tsunami
+But Poonawalla's plans soon went awry when a second wave of Covid-19 hit India in the spring. At its peak the country was reporting over 400,000 cases per day, though experts say the actual number was likely much higher.
+At that point, only 2% percent of India's 1.3 billion population was fully vaccinated, and the country's national government had been slow in placing orders for more vaccines. Without a massive stockpile, states in India began to run out of the limited number of jabs they had.
+India then decided to stop the export of all vaccines, preventing SII from keeping up with its commitments elsewhere.
+"I've always been a patriot for my country ... and if my country needs my facility first, I have to do what they say," Poonawalla said. "There was no two ways about that."
+The inability to export vaccines hurt some of the poorest nations in the world. The director of Africa's disease control body, for example, warned India's hold on exports could be "catastrophic" for the continent. People in several countries, from neighboring Nepal to Kenya, were left stranded after receiving the first dose of Covishield, the name of the India-manufactured vaccine.
+When asked why the global vaccine alliance chose to rely so heavily on one manufacturer, a Gavi spokesperson told CNN Business it had few options.
+At the start of 2021, "very few vaccines were approved and available for deployment," the spokesperson said, adding that it was "natural" that SII would be contracted for early doses given its size.
+But public health expert Jeffrey Lazarus said there were flaws in the plan.
+"Relying on one manufacturer was a mistake, which is easier to see in hindsight," said Lazarus, who heads the health systems research group at the Barcelona Institute for Global Health.
+Being held to account
+While Poonawalla cannot be held responsible for some of the issues that led to the vaccine rollout stalling — chief among them, India's massive outbreak — his detractors have questioned parts of his approach.
+They point out Poonawalla hasn't delivered the number of jabs he initially promised, and they claim he hasn't been transparent about how he's been using all of the money he raised for the big vaccine push.
+"There isn't much accountability for where the money he raised went," Malini Aisola, co-convenor of health sector watchdog All India Drug Action Network, told CNN Business.
+In June last year, SII pledged it would make one billion doses of the AstraZeneca vaccine for low and middle income countries, with 400 million doses ready by the end of 2020.
+But by January 2021, the company had a stockpile of just 70 million doses. His critics weren't impressed, given the amount of capital he raised last year.
+The global media coverage also turned unfavorable, with headlines linking the global shortfall in vaccines to SII's problems, including the India export ban and a fire at the company's Pune facility. At the time Poonawalla said the fire had no effect on Covishield production. But he has since reversed course, saying that the incident has played a major role in hampering manufacturing.
+He also insists he was realistic about his goals. "We always underpromise," Poonawalla told CNN Business, when asked whether the company pledged more than it could deliver.
+Still, he's been dogged by other controversies that have dented his reputation. As India's Covid-19 cases were skyrocketing in April, Poonawalla lowered the price of his vaccine and referred to the move as a "philanthropic gesture" — leading to heavy criticism, with activists pointing out that even a small profit is still a profit for SII.
+"AstraZeneca has pledged that it won't make profits from low income and middle income countries during the pandemic, but that does not seem to apply to SII," Aisola said.
+According to AstraZeneca, the companies the drugmaker has sublicensing agreements with, including SII, dictate their own prices.
+SII declined to comment on how much it has profited from the vaccine efforts so far, but Poonawalla said it is a "very unreasonable and naive way of looking at the world" for people to expect companies not to profit from the vaccine.
+While Poonawalla has yet to match his lofty goals, there is a chance that he and SII can get back on track, which is critical to ending vaccine inequality worldwide. India has decided to begin exporting vaccines once again as its own rate of inoculation increases. The nation had administered one billion doses by October — about 90% of which came from SII, according to the company.
+SII also says that it has increased its production to 220 million doses a month as of October.
+SII is also expanding its partnerships, having signed a deal with American biotech firm Novavax to manufacture its Covid-19 vaccine, which is awaiting regulatory approvals. It's also partnering with the Russian Direct Investment Fund on production of the Sputnik vaccine.
+
+
+
+2021 was a dramatic year for Indian IPOs. The hype won't go away next year
+
+New Delhi (CNN Business)India's stock market celebrated an extraordinary year as some of the country's buzziest tech firms made their public debuts. And while one high-profile blunder cast a chill over the festivities, that's probably not enough to stop the excitement in 2022.
+By December, more than $15 billion had been raised in Mumbai through initial public offerings, a record amount, according to Dealogic. About $6 billion, or nearly 40%, went to tech companies — another record.
+This year was historic for another big reason: It's the first time any of India's tech unicorns, or startups valued at more than $1 billion, have gone public.
+Those milestones indicate how much of a shift happened this year for tech darlings tapping investment in Asia's third largest economy. India's unicorns have in the past focused on exclusively raising funds from private markets, fearing that the country's conservative investors would not understand their business models.
+Most of these high-profile startups are losing money, which was making retail investors leery, Piyush Nagda, head of investment products at Mumbai-based brokerage Prabhudas Lilladher, told CNN Business.
+But that all changed after food delivery giant Zomato made its red hot debut this summer. Nagda said the IPO sent a clear signal that "perception is changing" among investors.
+The party that started with Zomato's $1.3 billion IPO — the company popped 65% on listing day to reach a market value of $13 billion — swept up a handful of other tech firms as well. E-commerce company Nykaa and online insurance marketplace Policybazaar each surged on their debuts.
+The euphoria came to a screeching halt with Paytm's disastrous IPO last month. The mammoth listing from the digital payments firm crashed 27% on its first day of trading, and hasn't come close to reaching its offer price again.
+Despite that fiasco, which analysts blamed on the lack of a clear pathway to profitability and an overly high valuation, other Indian tech firms likely won't be stopped from going public in the coming years. They'll just have to be careful about how they price themselves and whether they're buying too much into the hype.
+Why the party could keep going
+There are a few reasons to remain hopeful about the Indian tech sector.
+Many of the country's digital startups saw a big jump in growth during the pandemic, both in terms of customers and funding.
+Coronavirus-related lockdowns have encouraged people outside of major cities to spend money online, speeding up digitization of businesses and opening up more opportunities for technology entrepreneurs.
+Tech firms in India have raised nearly $25 billion this year, the highest annual amount ever, according to data platform Tracxn. Some 34 companies have reached unicorn status.
+India has also attracted more attention from top global investors this year due to the crackdown on tech firms in China, where authorities have imposed sweeping curbs on private enterprise that have eaten into share prices and triggered concerns about future growth.
+As a result of those regulatory actions, "growth investors have shifted funds to India" said Tom Masi and Nuno Fernandes, co-portfolio managers of the emerging wealth strategy at GW&K Investment Management. They told CNN Business that the performances of the two countries have diverged this year, "with India up about 20% and China down 20%."
+Nagda also said that interest in Indian tech from global investors has made the sector more attractive to India's tech-savvy millennials. He estimates that India added about 20 million retail investors since April 2020, and between 30% to 40% of them are under the age of 40.
+They've been piling into the stock market since the pandemic started, and are eager to invest in the country's internet giants, he added.
+And, they should be getting plenty of opportunities next year, with some of India's biggest startups gearing up for IPOs, including Walmart-owned Flipkart and hotel chain OYO.
+Young investors don't look at companies in a "traditional" manner "where profitability and those kind of ratios were heavily looked at," Nagda said, adding that there is a "revolutionary change" underway in stock trading in India.
+A wake-up call
+Even those investors may have their limit, though.
+Paytm raised $2.5 billion during its IPO, with almost half of that coming from foreign investors.
+The company was valued at $20 billion when it launched its public offering — even though it lost hundreds of millions of dollars last year and seemed far from ready to turn a profit.
+"Paytm was overpriced," said Masi and Fernandes. "It required investors to make growth assumptions well into the future for a business model that has not been firmly established."
+Some analysts describe Paytm's flop as a much-needed wake-up call for companies that need to rethink their valuations.
+"Some rationality will prevail," Nagda said. To see Zomato-like "success stories," you need to "price the stock rightly," he added.
+After Paytm's historically terrible debut, some companies in fintech sector are rethinking their IPOs. Paytm's smaller rival Mobikwik said it would defer its IPO, originally planned for November, by a few months.
+"The company is witnessing strong business growth, has a clear path to profitability and will list at the right time," it told CNN Business.
+Some tech entrepreneurs have urged caution while chasing big money in public markets.
+Nithin Kamath, founder of India's largest retail brokerage Zerodha, tweeted recently that his firm won't be filing for an IPO, even though he "can potentially get ridiculous valuations."
+"We are in a world where companies are getting priced to perfection based on all the future growth potential. For a stock to do well, you have to outperform," he wrote. "As CEO, I dread to think how you can outperform the already really high expectations that growth companies have today."
+Along with managing overwhelming expectations, startups that go public will also have to adjust to the amount of company information they'd be expected to regularly reveal to their new shareholders.
+Privately held tech giants are less beholden to such transparency. And many investors think those requirements would be a welcome change.
+There will be "visibility into this for the very, very first time," said Karthik Reddy, co-founder of venture capital firm Blume Ventures. "Even I don't know what was going on in all these companies, even though I'm an industry person."
+
+
+
+Hyundai triggers diplomatic spat over Kashmir
+
+New Delhi/Islamabad  (CNN Business)South Korean automaker Hyundai faced controversy this week in India, sparking diplomatic tensions between Seoul and Delhi.
+India's Ministry of External Affairs said Tuesday that it summoned the Korean ambassador to express "strong displeasure" over what the agency called an "unacceptable social media post" made by one of Hyundai's Pakistan-based distributors.
+Hyundai Pakistan on Saturday apparently tweeted support for Kashmir Solidarity Day, a holiday in Pakistan to mark the nation's support for people in the India-administered part of Kashmir. Both countries have claimed the region in its entirety.
+"India welcomes investments by foreign companies in various sectors," said Indian foreign ministry spokesman Arindam Bagchi in the statement. "But, it is also expected that such companies or their affiliates will refrain from false and misleading comments on matters of sovereignty and territorial integrity."
+CNN Business was unable to view the tweet before it was taken down, but widely circulated screenshots show that it carried a hashtag for the holiday, and expressed support for pro-separatists in Kashmir.
+Reuters reported that posts on behalf of Hyundai's partner in Pakistan also appeared on Facebook and Instagram. CNN Business was unable to view those posts, but they commemorated "what it described as the sacrifices of Kashmiris struggling for self-determination," according to Reuters.
+Local businesses typically put out statements to highlight the efforts of Kashmiri separatists in the region, which is one of the world's most dangerous geopolitical flashpoints. But the Hyundai Pakistan tweet highlights how challenging it can be for multinational brands to navigate such issues.
+The Hyundai Pakistan tweet sparked intense backlash in India: Indian Twitter users vowed to stop buying Hyundai-manufactured vehicles in favor of supporting local carmakers, such as Tata Motors and Mahindra Auto.
+Hyundai apologized twice. First on Sunday, Hyundai India said the "unsolicited social media post" offended the brand's "unparalleled commitment" to the country. The company added that it respects "nationalism," and called India a "second home." It condemned the views expressed in the post by the Pakistani account.
+Hyundai again tried to quell the furor on Tuesday with another tweet — this time, credited to parent firm Hyundai Motor Company — that attempted to distance the Indian subsidiary from the partner in Pakistan. The Kashmir tweet, Hyundai said, was sent by an "independently-owned distributor in Pakistan."
+"As a business policy, Hyundai Motor Company does not comment on political or religious issues in any specific region," the automaker said in the post.
+It added that "once the situation was brought to our attention, we made the distributor acutely aware of their inappropriateness of the action. Hyundai also said it has "put in place processes to prevent a future recurrence."
+Hyundai representatives in India, Pakistan and South Korea did not respond to requests for further comments from CNN Business.
+Hyundai Pakistan is operated as a joint venture between Hyundai (HYMTF) and Nishat Group, one of Pakistan's largest conglomerates. Hyundai also has a wholly-owned subsidiary in neighboring India, making it one of the few foreign automakers to crack the competitive Indian market.
+Nishat Group declined to comment to CNN Business.
+
+
+
+US stocks fall again as Russian invasion threat continues
+
+San Francisco/Hong Kong (CNN Business)US stocks slid Friday as investors continued to track geopolitical developments in Eastern Europe following Thursday's steep selloff.
+The Dow (INDU) closed down nearly 233 points, or 0.7%. The S&P 500 (SPX) and Nasdaq (COMP) Composite ended the day with losses of 0.7% and 1.2%.
+All three indexes finished the week in the red for the second straight week. On Thursday, as fears of a Russian invasion of Ukraine deepened, Wall Street retreated, sending the Dow down 622 points, or 1.8% — its worst day so far this year.
+The US stock market will be closed Monday in observance of the Presidents' Day holiday.
+Global markets were mostly stable in spite of the volatility on Wall Street.
+Australia's S&P/ASX 200 and Japan's benchmark Nikkei (N225) closed down 1% and 0.4%, respectively, while South Korea's Kospi (KOSPI) was little changed.
+Chinese markets were mixed: The benchmark Shanghai Composite (SHCOMP) Index gained 0.7%, Hong Kong's Hang Seng Index (HSI) dropped 1.9%.
+In Europe, stocks were little changed at the open. London's FTSE 100 (UKX) and France's CAC 40 (CAC40) each rose 0.2%, while Germany's DAX (DAX) ticked up 0.1%.
+Market watchers are nervous about what a military conflict between Russia and Ukraine could mean for oil prices and the global economy, especially if the United States and major economies in Europe become involved.
+Investors detest uncertainty. A full-blown invasion of Ukraine would trigger a knee-jerk selloff in stocks as businesses confront the possibility of an oil shock, higher inflation and a sanctions regime.
+A prolonged market downturn would wipe out wealth built up by families in the stock market and in retirement accounts. Market instability could also dent confidence among consumers and businesses.
+-— Paul R. La Monica, Charles Riley and Matt Egan contributed to this report.
+
+
+
+Microsoft's blockbuster Activision Blizzard deal could raise uncomfortable challenges for US antitrust enforcers
+
+New York (CNN Business)It has been about two decades since Microsoft and the US government went head-to-head in one of the country's biggest-ever antitrust battles. In the years since, Microsoft has managed to mostly stay off the radars of lawmakers and antitrust regulators, even as scrutiny of other tech giants has ramped up.
+But with its plan to acquire popular video game developer Activision Blizzard (ATVI) for nearly $70 billion, Microsoft (MSFT) may be thrust firmly back into the antitrust spotlight. The blockbuster deal would secure Microsoft's spot among the most dominant global players in gaming alongside Sony and Tencent, and it would expand the tech company's first-party content library to include some of the most popular titles in gaming, including "World of Warcraft" and "Call of Duty."
+Industry watchers say it's a risky time for Microsoft to try to push through what would be the largest acquisition in its history. The head of the nation's antitrust enforcement agency, Federal Trade Commission Chair Lina Khan, has pledged to crack down on companies consolidating power and reducing competition in a range of industries, especially technology. Activision Blizzard's stock is currently trading nearly 15% below the acquisition share price, a possible sign of investor skepticism about the deal going through.
+Still, Microsoft isn't the only one who faces a risk if the FTC does decide to challenge the deal. It could also present some uncomfortable challenges for Khan and the agency by highlighting limitations in their ability to tackle a new era of potential antitrust issues raised by the tech industry.
+In her first six months leading the FTC, Khan laid out an ambitious agenda that involves pushing sweeping reforms to the practice of antitrust law and being more proactive about blocking potentially anticompetitive mergers before they're completed. Her plans have been bolstered by support from the White House and bipartisan agreement among lawmakers about the need to rein in massive tech firms.
+Challenging the Microsoft-Activision deal could be a chance for Khan to prove she's serious about taking action. However, there remain serious legal hurdles to the FTC actually winning such a lawsuit (should it decide to bring one) — namely that the law itself is slow to change, and the existing rules and practice may not be enough to block even such a large acquisition.
+Both antitrust experts and the FTC itself have also noted that the agency is short on resources, especially compared to large tech companies. And it's unclear whether Khan will want to spend those limited resources on Microsoft and the gaming industry — or, for that matter, to make it one of her first new antitrust fights against Big Tech — rather than focus on some of the other ways tech companies have potentially consolidated markets. For example, Khan's FTC is moving forward with a Trump-era suit to unwind Facebook's years-old acquisitions of Instagram and WhatsApp, and it is also reportedly engaged in an extended review of Amazon's acquisition of movie studio MGM.
+It's still early in the process. Microsoft filed formal paperwork with the FTC to kickstart the merger review process and delivered an initial briefing to FTC staff earlier this month. The agency's review process could take months. But antitrust experts say Microsoft's nearly $70 billion bid for Activision will be hard for the FTC to ignore.
+A deal of this size "is almost a challenge to Lina Khan to kind of bring it on," Hal Singer, managing director at economics research firm Econ One and a professor at Georgetown Business School, told CNN Business. "She's trying to push back and slow down the train, and this is basically the tech sector just saying, 'You can't stop us.'"
+The FTC typically does not discuss deals under review and did not respond to a request for comment on this story. Microsoft pointed CNN Business to comments from President Brad Smith — who was the company's general counsel during its last antitrust battle — in a recent briefing with reporters, where he said it "is so early in the process that we're not yet at a point where we're getting any real feedback [from the FTC]. We wouldn't expect to yet."
+Microsoft CEO Satya Nadella also commented on the deal during the briefing, saying: "We want to compete ... I want us to approach this in a principled way where we are building our platforms, our technology, such that we are on the right side of history."
+Evaluating the Microsoft deal
+At the heart of regulators' evaluation of any merger is the question of how much the deal could reduce competition, and therefore threaten to raise prices for consumers or cause other harms.
+There are a few ways to approach this: Because Microsoft, like Activision Blizzard, designs some of its own games, it's possible that the deal could be considered a "horizontal merger," the term for when one company is acquired by a direct competitor, effectively consolidating the market. But because there's significant competition in the game development space, regulators are less likely to be concerned about this aspect of the deal, antitrust experts say.
+If the FTC does decide to challenge the deal, it will likely instead be on the grounds that it is an anticompetitive "vertical merger." A vertical merger is one in which one company (think, Microsoft, which creates gaming platforms and consoles) acquires another company in the same industry but a different part of the supply chain (like Activision Blizzard, which makes the games to play on those platforms).
+That's where things could start to get tricky for the FTC. It can be harder to prove potential harms from a vertical merger than from a horizontal merger because the economics are more complex, according to Daniel Crane, a law professor and antitrust expert at the University of Michigan. In a horizontal merger, two competitors become one competitor, making it more apparent how overall competition in the market is reduced. But in a vertical merger, the end result is less straightforward. (There have also been fewer challenges to vertical mergers over the past few decades, which would mean less legal precedent to rely on in court.)
+In a vertical merger case against Microsoft, regulators would look at whether the deal could result in the denial of a crucial product to competitors that would impede their ability to compete effectively. In this case, that would likely mean looking at whether Microsoft could make existing or future games developed by Activision Blizzard exclusive to its platform, to the detriment of rivals like Sony.
+In theory, that proposition is part of what makes the deal attractive. Microsoft has been trying to drive a growing slate of content into its Game Pass subscription offering to attract new users and keep existing ones paying for the membership, said Forrester analyst Will McKeon-Wright. (Microsoft has suggested it won't make Activision content exclusive to its own platforms, although the company could still profit from licensing deals with competitors' platforms.)
+Much of the antitrust argument could come down to how you define the market. Regulators would likely want to focus on a smaller market — game consoles, for example — where it could contend that Microsoft is a dominating force. The company, meanwhile, would likely argue that it competes for consumers' attention with a broader collection of companies, such as Netflix and TikTok.
+"There might be something in the Activision portfolio, that by denying it to a rival gaming platform, Microsoft could cripple that rival platform," Singer said. If there is, regulators may reasonably be able to make the case that consumers could expect higher prices from the deal.
+Still, "the chances for the government, under the current state of the law, are very low for stopping a vertical merger," Singer said. The failed challenge to the AT&T-Time Warner merger in 2018 is one of the only recent examples of litigation over a vertical merger. (Time Warner, which later rebranded as WarnerMedia, is CNN's parent company.)
+"If I'm Microsoft and I'm looking at this kind of a deal, I think I'm expecting pushback from the FTC and possibly litigation," Crane said. "But I'm also feeling pretty good about my chances."
+The challenge for the FTC
+That's where Khan's plans to overhaul the country's approach to antitrust come into play. For the past several decades, antitrust regulators have focused chiefly on the potential for mergers to raise prices for consumers. Now, Khan, who has been concerned about vertical mergers since before starting at the FTC, is proposing a broader framework for how to think about the possible harms from mergers and corporate consolidation, such as the impact on workers in the affected industry.
+To that end, the FTC in September withdrew guidelines for evaluating vertical mergers that the agency released during the Trump administration, and is now working with the Justice Department's Antitrust Division to review whether to release updated guidelines that reflect technological and economic changes in recent years. That update could include giving regulators more leeway to consider whether a merger might "tend to create a monopoly," even in its early stages, the agencies said.
+The review is being made, at least in part, with an eye toward better regulating the tech companies, who have defended mergers and their growing power by pointing to the many free products and services they provide to consumers.
+While the guidelines are not legally binding, the fact that there currently are none for a court to refer to may mean that the FTC is not yet ready to come out swinging with a challenge to the Microsoft-Activision deal. "You want that thing in your hand when you go in to challenge this deal, you really don't want to go in without it," Singer said of the FTC.
+But it's unlikely that those revised guidelines, the public comment period for which began last month, will be ready in time for a potential case against the Microsoft deal. Even if the new guidelines were released during litigation, "you know what Microsoft's going to say, they're going to say, 'they wrote these guidelines with us in mind,'" Crane said. (The FTC could wait to take action, as it has shown that it's willing to revisit mergers even years after the fact with its lawsuit seeking to break up Facebook, but Khan has indicated a desire to challenge potentially anticompetitive deals before they go through.)
+In the end, the acquisition could end up closing with a consent decree, a settlement where the acquiring company agrees to make some concessions to complete the deal, as many other vertical mergers have in recent decades. Microsoft has already hinted at its willingness to negotiate and play nice with competitors to help ensure the deal goes through. Shortly after the deal was announced, Microsoft's head of Xbox, Phil Spencer, tweeted that he had spoken with leaders at Sony.
+"I confirmed our intent to honor all existing agreements upon acquisition of Activision Blizzard and our desire to keep Call of Duty on PlayStation," Spencer said. "Sony is an important part of our industry, and we value our relationship."
+And last week, the company made a more detailed appeal to regulators to bless the deal. It promised to ensure that the popular franchises it acquires from Activision Blizzard will remain available on PlayStation under Activision's existing deal with Sony. The company also said it has offered to extend the deal on a "multiyear basis." Activision's existing deal with Sony runs until 2024.
+"I would be very surprised if Microsoft wasn't willing to make a number of concessions to get this deal done. The question is whether that would be acceptable," Crane said. "[The FTC] want to be seen as active and doing things and really changing the status quo in antitrust."
+
+
+
+Chamath Palihapitiya resigns as chairman of Virgin Galactic
+
+New York (CNN Business)Billionaire investor Chamath Palihapitiya, who was one of the executives to help take Virgin Galactic public, has stepped down as chariman of the company.
+The company didn't say why Palihapitiya was leaving. Evan Lovell, the chief investment officer of Vigin Group, will take his place as interim chairman.
+Virgin Galactic, founded by Virgin Group's Richard Branson, went public through a special purpose acquisition company in 2019, closing its first day of trading at $11.50. Shares soared as high as $62.80 in February of 2021 on investors' excitement about the potential of space tourism and commercial space travel.
+But shares have steadily lost value since then. One of the things that prompted the slide was the disclosure in March last year that Palihapitiya had sold off about $200 million of his stake in the company. The filing at the time disclosed he had sold 6.2 million shares for an average price of $34.32.
+Shares of Virgin Galactic (SPCE) closed trading Thursday at $9.01.
+Palihapitiya sparked a backlash last month he said on a podcast that "nobody cares about what's happening to the Uyghurs," referring to the mostly Muslim ethnic and religious minority group that the Chinese government has been accused of abusing. Several companies in which he is involved, including Virgin Galactic, distanced themselves from Palihapitiya, who later apologized for the comments.
+
+
+
+Details emerge on CNN exec's sudden ouster
+
+New York (CNN Business)A version of this article first appeared in the "Reliable Sources" newsletter. You can sign up for free right here.
+Earlier this week, WarnerMedia chief Jason Kilar left staffers at CNN once again in a state of confusion when he announced that Allison Gollust, CNN's chief comms and marketing officer, had resigned from the company. Kilar didn't specifically say why Gollust had suddenly exited, but he did say in the same memo that an outside probe found that she, former CNN president Jeff Zucker, and former anchor Chris Cuomo had all violated the network's news standards and practices rules.
+But what specific rule—or rules—did Gollust break? Kilar didn't say. While his memo announcing Gollust's departure did include the added information about the probe finding S&P violations, Kilar didn't directly tie the two together.
+So why was Gollust ousted? On Friday evening a pair of stories, one in The New York Times and one in The Wall Street Journal, offered different accounts. The answer may be a version of "all of the above."
+Two different accounts
+The Journal's story, reported by Ben Mullin and Joe Flint, landed first. The paper, citing sources familiar with the matter, offered this account: that Gollust resigned because WarnerMedia "determined a statement she gave about her romantic relationship" with Zucker "was misleading," and furthermore, because our media coverage (like every other outlet) quoted her statement, she "misled CNN's audience."
+Gollust said her relationship with Zucker turned romantic during the pandemic—and Gollust's camp maintains that her statement was and is true. "Allison has been clear that her relationship with Jeff changed during Covid," her spokeswoman Risa Heller said Friday, "and regrets that they didn't properly disclose it to WarnerMedia at that time. Continuing to publicly debate the private details of her personal life reeks of sexism and only further underscores WarnerMedia's retaliatory actions against her."
+The Times' story, which was published within minutes of The Journal, offered another version of events. Michael Grynbaum, John Koblin, and Emily Steel reported that Gollust had been ousted after discussing interview topics with former New York Gov. Andrew Cuomo, for whom she had briefly worked as a comms aide nearly a decade ago. According to the trio of Times journalists, Cuomo told Gollust about subjects he'd like to be asked about on air, Gollust "passed along the topics to CNN producers," and then replied to Cuomo via email with one word: "Done."
+Standard practice or something more?
+The New York Times' story explaining Gollust's ouster baffled some of my sources inside and outside CNN on Friday, given that it is extremely common in TV news to ask subjects — particularly newsmakers such as a high-level official — if they have any news they'd like to share or break during an interview. One of the topics Cuomo wanted to be asked about, according to the NYT, included a recent conversation he had with Trump. A careful read of the interview transcript at issue shows a probing Q&A and no signs of interference or Cuomo coziness.
+Keith Olbermann, who sparred with Zucker at NBC, wrote on Twitter that he is the "last person to defend Zucker, Gollust, or either Cuomo, but pre-interviews in which potential questions and topics are disclosed to the guest, and/or the network is apprised of topics the guest would like to discuss, are standard practice in TV." Puck's Dylan Byers tweeted, "If this is AT&T/WarnerMedia's silver bullet, they're in big trouble."
+The Times did not print the full email exchange at the center of its story. The lone direct quote was Gollust's single-word reply to Cuomo: "Done." Which is to say, we are missing a lot of the background details. Was this an innocuous pre-interview procedure? Or is there damning info in the email exchange that the Times didn't print? We don't know.
+Heller issued a statement contesting the Times' story: She said Cuomo "suggested to Allison he hoped to be asked about three topics during an interview on CNN" and that she simply "relayed that information to CNN staffers." Heller pointed out that "it is extremely common for newsmakers and elected officials to tell producers what topics they'd like to cover during an interview." That's true. It does not mean the hosts will ask. But Heller also said that Gollust "acted as the principal booker for Governor Cuomo during the early days of the pandemic," adding, "This was well known by the entire network, and many producers relied on her for it on a regular basis." I can't speak for the "entire network," but Brian Stelter and I did not know this.
+Heller added, "WarnerMedia relying on this everyday practice as justification for dismissing Allison demonstrates how ignorant they are of journalistic practices, and further proves that her dismissal is nothing more than retaliation."
+The irony
+WarnerMedia sources keep hinting that there is more. More of what? They won't say. Maybe they legally can't say. "Multiple ethical violations," one of the sources told Stelter Friday night. But that could mean any number of things. And without details, Zucker and Gollust's reps are reduced to punching at ghosts, unable to deny what's not actually being alleged. The central problem in understanding the Gollust-Zucker ousters continues to be a lack of transparency from WarnerMedia. While Kilar said Gollust and Zucker violated company standards, he has not explained what those violations were. The Washington Post's Erik Wemple pointed out Friday that "there's some irony in a media company citing standards-and-practices violations without detailing them." As Wemple put it, "Such suppression, after all, violates the supreme standard and practice: transparency."
+Denied severance
+Meanwhile: Byers reported Friday that Zucker and Gollust "were denied severance by AT&T and that they are currently in talks with lawyers to assess their options for wrestling a payout from the telecom giant." So will they sue? "They both feel like they are entitled to some multiple of that," Byers reported, citing sources, "but they haven't yet decided whether they have the appetite for a protracted legal battle."
+
+
+
+Facebook is rebranding everything but faces the same old problems
+
+New York (CNN Business)Nearly four months ago, amid a firestorm of critical coverage stemming from a whistleblower's leaks, Facebook shifted its strategic focus to building an immersive version of the internet it calls the "metaverse" and changed its company name to Meta.
+This week, the company continued with its rebranding campaign. The News Feed, for years the centerpiece of the Facebook user experience and also central to some of its controversies, was rebranded simply as Feed. Its employees, previously known as Facebookers, became Metamates. And its corporate values got a refresh, too.
+Gone are corporate maxims like "be bold." Instead, the company introduced guidelines such as "focus on long-term impact" and "be direct and respect your colleagues." Mark Zuckerberg, the company's cofounder and CEO, said the changes were needed because "we're now a metaverse company, building the future of social connection."
+"We've already built products that are useful to billions of people, but in our next chapter we'll focus more on inspiring people as well," Zuckerberg wrote in an explanation of the new value "build awesome things."
+The changes this week once again hint at the company's eagerness to turn the page and refocus its employees, and arguably the general public, on a new era of its business — one less tarnished by years of controversy.
+Zuckerberg himself appears eager to turn away from some of the recent turmoil, announcing this week that Nick Clegg, formerly Meta's vice president of global affairs and communications, has been promoted to president of global affairs. Clegg's promotion will free up time for Zuckerberg to focus on the company's efforts to build new artificial and virtual reality products, Zuckerberg said.
+But despite Zuckerberg's and Meta's apparent effort to "live in the future," as one of its new values dictates, the social media giant still has to wrestle with many of the same old problems that have plagued it for months or, in some cases, years. If anything, some of its challenges only seem to be getting worse.
+Meta' (FB)s core advertising business faces threats from other Big Tech giants. Facebook whistleblower Frances Haugen has filed two new complaints with the Securities and Exchange Commission over the company's handling of misinformation. And the company continues to grapple with regulatory scrutiny.
+"At the end of the day, Mark can run, but he can't hide from the regulatory pressure," Katie Harbath, a Facebook alum who helped lead the company's global election efforts until her departure last year, said of his making Clegg effectively the company's most public face on policy issues.
+For a long time, it seemed like Zuckerberg and Facebook could at least find some comfort during the company's various PR crises in the resiliency of its stock. But that's no longer the case. Meta's shares have fallen more than 40% over the past six months, with much of the loss in value following a rough holiday quarter earnings report which showed, among other things, a rare lapse in user growth.
+"Wall Street and the investment community [have] caught up with [the fact that] that the core business at Facebook is no longer growing, it may even be in decline at some point, and therefore Facebook has had to make an enormous pivot into a tangential, and really unrelated, space," said Gil Luria, technology strategist at investment firm D.A. Davidson.
+Asked for comment about this story, Meta directed CNN Business to Zuckerberg's post about the company's changing values.
+Facebook's problems continue
+While Meta's announcements this week center on its vision for a new, virtual world, the company's problems continue to pile up in the real world.
+On Friday, the Washington Post broke the news that two new whistleblower complaints against Meta were filed with the SEC. Andrew Bakaj, a lawyer for Whistleblower Aid, which filed the complaints, confirmed to CNN Business that they were filed on behalf of Haugen. Haugen is the former Facebook product manager who left the company last May and took with her a trove of internal documents that would later be disclosed to Congress and inform the blockbuster Facebook Papers reporting that fueled the company's prolonged PR crisis.
+CNN Business obtained redacted copies of the new SEC complaints as part of a consortium of news organizations from a Congressional source, who also provided the internal documents that formed the basis of last year's Facebook Papers reporting.
+The new complaints accuse the company of misleading investors about its efforts to address climate and Covid-19 misinformation on its platforms. They detail how Facebook had repeatedly touted its efforts to fight misinformation about Covid-19 and climate change and allege that internal documents indicate employees were raising concerns at the same time about such content being easily available on the platform and about shortcomings in the company's efforts to address it.
+"Some investors simply will not want to invest in a company that fails to adequately address such misinformation," one of the SEC filings states. Haugen previously filed SEC complaints against Facebook related to its handling of misinformation about the 2020 Presidential election and January 6 insurrection, human trafficking on its platforms, the effects of its products on teens and more.
+In a statement to CNN Business, Meta spokesperson Drew Pusateri said the company has directed two billion people to authoritative public health information and used its Climate Science Center, available in more than 150 countries to provide reliable information about the climate, while working with independent fact checkers to address and remove false claims. "There are no one-size-fits-all solutions to stopping the spread of misinformation, but we're committed to building new tools and policies to combat it," Pusateri said.
+The news of the SEC filings followed a slew of other headlines for the company this week. Meta agreed to pay $90 million to settle a decade-old class action lawsuit over a (now long defunct) practice that allowed the social network to track users' activity across the internet, even if they had logged out of the platform. The agreement, which also involves deleting the data it collected in this manner, is one of the biggest settlements in the company's history. Pusateri on Tuesday said the settlement "is in the best interest of our community and our shareholders and we're glad to move past this issue."
+Lawmakers this week also added to the slate of proposed legislation that could affect Meta. Sens. Richard Blumenthal and Marsha Blackburn proposed the Kids Online Safety Act, which would create new responsibilities for tech platforms to protect children from digital harms such as sexual exploitation, and require them to create default settings for families to protect their kids from harmful content.
+But perhaps the biggest potential problem for Meta to emerge this week was an announcement by Google that it plans to develop new privacy measures that would remove the ability to track users across apps and limit the sharing of user data with third parties on Android devices.
+The announcement comes after a similar move by Apple (AAPL) caused a huge hit to Meta's advertising business by giving users the chance to opt-out of being tracked by apps, thereby making it harder for Facebook to target ads. Meta's ad business is heavily dependent on small businesses "that are relying on the benefits of being able to access a lot of information about users to effectively target advertising ... without those details, advertisers are not going to pay as much money," Third Bridge Group analyst Scott Kessler said. The Apple change is expected to have a $10 billion impact on Meta's bottom line this year.
+While Google (GOOG) suggested its new privacy-focused advertising system will work differently from Apple's — and a Meta executive lauded Google's "long-term, collaborative approach" to developing it — the change could still ultimately be yet another blow to Meta's core ad business.
+Building out its VR efforts might help. Indeed, Meta's and Zuckerberg's focus on the company's metaverse ambitions may be an acknowledgment of the fact that its existing business is in trouble, Luria said. He noted that Zuckerberg's updates this week may be a way of communicating, both inside the company and externally, "the importance and timeliness of this pivot."
+Meta is working to develop its own tech ecosystem that users will be able to access with its own Quest headsets and where it can run its own app stores, without being at the whim of companies like Apple and Google. The problem: the metaverse, and broad adoption of its related technologies by consumers and advertisers, is still years away, so that solution is unlikely to turn Meta's fortunes around anytime soon.
+"In the meantime," Luria said, "if their core business is slowing down and will possibly start declining at some point, that will break Facebook's long streak of fast growth that they've had... since they've gone public."
+
+
+
+Coca-Cola introduces a first-of-its-kind flavor
+
+New York (CNN Business)Coke's new flavor is out of this world.
+At least, that's the idea behind Coca-Cola Starlight, a new limited-edition version of the classic soda that comes in regular and zero sugar.
+After deciding to discontinue half of its portfolio a few years ago, getting rid of outdated but beloved drinks including Tab and Odwalla, the soda giant has been focusing on promoting its core product, Coke. Starlight is the first beverage from Coca-Cola Creations, a new innovation platform.
+Unlike "cherry" or "vanilla," it's not immediately clear how "starlight" is supposed to taste. So Redditors who spotted images of the new product online a few months ago shared some theories about the new drink's flavor. Some say they spotted the mysterious new product on retailer websites ahead of the official launch, slated for next week.
+One guessed raspberry, because "a quick Google search says that space tastes like raspberries." (Astronomers do think that the center of the galaxy may taste like raspberries and smell like rum, according to a 2009 Guardian article. Delicious! And not a bad idea for Coca-Cola, which is launching spiked versions of its drinks left and right.) More recently, a YouTuber who tried the product noted after-tastes of "chocolate [and] graham cracker." That led another Redditor to guess that the flavor is "s'mores."
+On Thursday, Coca-Cola finally cleared up the mystery. Sort of. The company's explanation is ... well, see for yourself: Starlight is "inspired by space" has "notes reminiscent of stargazing around a campfire, as well as a cooling sensation that evokes the feeling of a cold journey to space," the company said in a release.
+So yeah, maybe s'mores?
+Also, it's red. Or in the company's words, "Coca-Cola Starlight combines great Coca-Cola taste with a dash of the unexpected, including a reddish hue."
+To this reporter, after tasting a sample of the zero-sugar version provided by the company, that last sentence just about sums it up. The beverage did not taste like space travel or sitting around a campfire. It did, however, taste like a sweeter version of Coca-Cola. And it is definitely red.
+Starlight is getting the full Coca-Cola Creations promotional treatment, which includes a digital marketing campaign featuring pop singer Ava Max.
+Coke's new marketing strategy
+Last year, Coca-Cola launched a new brand platform called "Real Magic." The idea is to take a slightly different approach to marketing Coke — one that tries to reach new consumers by focusing on gaming and music, among other things. Coca-Cola Creations, which will introduce new limited-time "products and experiences across physical and digital worlds," is part of that platform.
+"When we launched 'Real Magic,' we wanted to connect with and celebrate the experiences that bring joy to young people today, and that has taken us to an exciting new territory," Oana Vlad, senior director of global brand strategy at Coca-Cola, said in a statement Thursday.
+For Coca-Cola, reaching young consumers is essential because interest in soft drinks has been declining for years. Exciting new campaigns and mysterious products could be a way to get potential new customers to pay attention.
+So what does that entail? In the case of Starlight, it means a holographic concert by Ava Max, who has also performed in the gaming platform Roblox. The concert can be accessed via a QR code on the Starlight label. Plus, the sparkly packaging and that reddish hue.
+But not everything about Starlight is new. It's also a nod to when Coca-Cola actually sent a can of Coke to space in the 1980s. But that one just tasted like Coke.
+Update: This story has been updated to reflect that Coca-Cola Starlight comes in both zero-sugar and regular varieties.
+
+
+
+Tesla plunges seven spots in annual Consumer Reports ranking
+
+(CNN)Consumer Reports took a decidedly more negative view of Tesla in this year's rankings of vehicles.
+The Model 3, which had been its top pick among EV models, lost that distinction to the Ford Mustang Mach-E. The Model 3 now has the third best ranking among EVs, behind the Mach-E and the Kia Niro.
+Tesla plunged seven spots to No. 23 in the overall ranking of best car brands. The drop was mainly due to the difficult-to-use yoke steering wheel the automaker recently debuted on the updated version of those models. Consumer Reports said the steering wheel was enough of a problem to lower their road-test scores.
+The Model 3 remains the lone Tesla model that is CR recommended. Tesla also makes the Model Y small SUV, Model X large SUV, and Model S large sedan.
+"Make no mistake, the Model 3 is still a great choice, and Consumer Reports recommends it," said its article on rankings. "It shines with the latest technology, a long range, an impressive charging network, and a driving experience closer to a high-performance sports car than a sedan. But the Mustang Mach-E is also very sporty, plus it's more practical and easier to live with. The Ford is also quieter and rides better."
+Consumer Reports had once been among Tesla's biggest fans. It judged the Tesla Model S as the best car it ever tested when the product-testing publication first reviewed it in 2013 with a score of more than 100.
+But questions about reliability, based on ownership surveys, hurt the car's rankings in the not-for-profit rating services' rankings and scores for Tesla.
+The Mach-E has been winning critical praise elsewhere as well, including Car and Driver's first EV of the Year award last year. It actually had a slightly lower score than the Kia Niro in Consumer Reports' rankings of vehicles, but spokesperson James McQueen said the top pick in each category is based on numerous factors beyond the straight score.
+
+
+
+India wants to launch a digital rupee and tax crypto profits
+
+New Delhi (CNN Business)India is planning to launch a digital version of the rupee, becoming the latest country to join the rush to create state-backed virtual currencies.
+The country's central bank expects to introduce the currency "using blockchain and other technologies" some time in the new fiscal year, which begins in April, according to Indian Finance Minister Nirmala Sitharaman.
+Presenting India's annual budget to parliament on Tuesday, Sitharaman said the digital rupee would "give a big boost to the digital economy." She did not give any further details about what the launch would entail, how widely a digital rupee might be used initially, or what impact it might have.
+Digital payments have grown dramatically in popularity in India since late 2016, when Prime Minister Narendra Modi banned the country's two biggest rupee bank notes. Apart from homegrown players such as Paytm, some of the world's biggest tech companies, including Google (GOOGL) and Facebook (FB), have joined India's cashless payments boom.
+The announcement comes as other major economies move forward with their own plans to launch virtual versions of their own currencies. China has been trialing its digital yuan in major cities for the last two years. It's one of only three payment methods available to athletes, officials and journalists attending the Beijing Winter Olympics this month.
+Europe and the United States have also been exploring the possibilities for a digital euro and digital dollar, though both have stressed the importance of mitigating financial risk presented by any e-currency.
+India has for years expressed concern about cryptocurrencies and how best to regulate digital assets, at times even flirting with a ban on cryptos. A cryptically worded proposal posted on the Indian parliament website last year suggested the government was exploring plans to "prohibit all private cryptocurrencies in India."
+The central bank has often expressed concerns that cryptocurrencies can be used for money laundering and to finance terrorism.
+No ban on cryptocurrencies
+In her speech Tuesday, Sitharaman suggested that authorities are willing to continue allowing crypto trading in the country, albeit with some regulations. She said that the Indian government would impose a 30% tax on income from virtual digital assets.
+"There has been a phenomenal increase in transactions in virtual digital assets," Sitharaman said. "The magnitude and frequency of these transactions have made it imperative to provide for a specific tax regime."
+The budget speech was greeted with a sigh of relief from India's crypto investors, and industry experts pointed to Sitharaman's remarks as a sign that Asia's third largest economy would not ban virtual currencies.
+"Hope to see a reduction of crypto ban fear in India." tweeted Nischal Shetty, the founder of cryptocurrency platform WazirX, on Tuesday. "Lot to unpack here but overall this is a very positive step forward for crypto ecosystem in India."
+Virtual currencies have become attractive to Indians since the start of the pandemic. While the government does not keep estimates of how many people trade cryptocurrencies, media reports have suggested that the country may hold as many as 20 million crypto investors, citing industry experts.
+"Taxation of virtual digital assets or crypto is a step in the right direction. It gives much-needed clarity and confidence to the industry," said Sumit Gupta, co-founder of CoinDCX, an exchange that is also India's first crypto unicorn.
+
+
+
+A Super Bowl hangover for sports betting companies
+
+New York (CNN Business)The Super Bowl was a bonanza for the gambling business thanks to new customers from New York, which recently legalized sports betting. But now comes the hard part for companies like DraftKings and FanDuel.
+Betting upstarts need to spend big bucks to attract new users — but like a gambler chasing a huge payday, companies can easily get in over their heads with marketing and acquisition costs if they're not careful.
+That challenge was on full display with DraftKings, whose shares plunged nearly 20% Friday despite sales that topped expectations and a boosted outlook.
+Investors are clearly concerned that the company is expected to continue losing money this year as it spends heavily on ads and promotions. And DraftKings also said first-quarter sales  would be lower than Wall Street forecasts.
+Ad spend isn't the only headwind for DraftKings. CEO Jason Robins said in an interview with CNN Business that the current lockout in Major League Baseball could be a problem since it may lead to a delayed start and shortened season.
+"When games are not being played, that is not positive for us," Robins said, comparing the possibility of fewer baseball games to the shutdown of nearly all sports that took place in the spring of 2020 at the start of the pandemic. "Hopefully, baseball will figure this out."
+Meanwhile, DraftKings faces tough competition from FanDuel — owned by UK-based sports betting company Flutter Entertainment (PDYPF) — as well as traditional casinos such as MGM (MGM), Caesars (CZR) and Penn National Gaming (PENN), which has a big minority stake in Barstool Sports.
+The crowded field forces rivals to try to out-promote one another other, often luring them with limited offers of free bets. The hope is to gain a loyal and frequent customer, but such promotions eat into short-term profits.
+Targeted approaches are key. Robins told investors during a conference call Friday morning that the company was not planning to spend too heavily in new markets.
+"When the New York market launched, there was some aggressive promotional behavior by many operators, but DraftKings is committed to maintaining its disciplined approach to customer acquisition and is targeting a two- to three-year path to profitability for the state," Robins said.
+Robins added during the interview with CNN Business that the company had record volume for the Super Bowl. He also said that the increased marketing by DraftKings and its rivals was a positive for the overall industry.
+"We're doing better than ever and the increased overall spending is helping us. There is a lot of awareness for the industry," Robins said.
+But investors don't seem to see it that way. The sports betting market is still in the nascent, land-grab stage where market share may matter more than profits. And there is big money backing some of DraftKings' rivals.
+Competition is fierce
+Barry Diller's IAC (IAC) media conglomerate owns a more than 12% stake in MGM and recently announced plans to raise that stake to nearly 15%. CEO Joey Levin said in an interview with CNN Business that MGM's New York launch was successful, and Super Bowl demand was strong
+Flutter's FanDuel is also aggressively going after new customers, while trying to keep existing gamblers happy in its established markets.
+FanDuel chief marketing officer Mike Raffensperger told CNN Business before the Super Bowl that there was no doubt that 2022 would be the biggest year so far for betting on the game. That's a function of both new states like New York as well as strong growth in maturer markets like neighboring New Jersey, where sports betting has been legal since summer 2018.
+"We're talking about 70% more bets on the Super Bowl from this time a year ago," Raffensperger said.
+Raffensperger added that there was a lot of interest in so-called "proposition bets" — wagers that go beyond traditional bets. One popular prop bet let people wager on a player who wasn't a quarterback throwing a touchdown. (That gamble paid off: Cincinnati running back Joe Mixon passed for a score.)
+Still, shares of FanDuel owner Flutter have also been hurt by the intense competition. The stock is down 6% in 2022 and more than 20% in the past 12 months. MGM, Caesars and Penn are in the red this year, too.
+Investors aren't betting on a long-term winner in the industry just yet. They're waiting for the dust to settle after the marketing blitz is over.
+
+
+
+Fed adopts strict trading rules after ethics scandal
+
+The Federal Reserve on Friday adopted an extensive set of restrictions on trading by policymakers and senior Fed staff. The move comes after an ethics scandal that embroiled policymakers and threatened to shake confidence in the central bank's integrity.
+The Fed said the rules are meant "to ensure public confidence in the impartiality and integrity of the Committee's work."
+Under the new rules, some of which were first unveiled last October, top Fed officials are banned from purchasing stocks and sector funds, and from holding individual bonds, agency-backed securities, cryptocurrencies, commodities or foreign currencies.
+The use of derivatives, short sales and purchasing securities on margin are also banned, and officials will have to give 45 days advance notice and obtain approval for any transaction. All investments must be held for at least a year, the rules say.
+Most of the Fed's new trading restrictions will come into effect on May 1, with pre-clearance and advance notice rules in force from July 1. Current Fed officials will have 12 months to come into compliance, the central bank said; new staff and policymakers will have six months from the date they join.
+The Fed put in place the rules after Boston Fed chief Eric Rosengren and Dallas Fed president Robert Kaplan resigned following reports of their active trading in 2020, when the central bank launched a massive effort to fight the economic impact of the Covid-19 pandemic. The Fed's efforts helped bolster financial markets.
+Another policymaker, then Fed Vice Chair Richard Clarida, also came under fire after he corrected a previous financial disclosure in late December to show he sold a stock fund and then swiftly rebought it shortly before the Fed announced a barrage of rescue programs to stem the economic fallout from the pandemic.
+However, questions remain about how much back and forth may have occurred over policymakers' personal trading in a year when markets first cratered, then rebounded on the basis of both massive federal fiscal stimulus and an aggressive rescue effort by the Fed.
+Last week, the Fed, responding to a Freedom of Information Act request by Reuters, said there are about 60 pages of correspondence between its ethics officials and policymakers regarding financial transactions conducted during 2020 but "denied in full" to release the documents, citing exemptions under the information act that it said applied in this case.
+Despite the overhaul of limits on trading, at least one lawmaker has called for a Securities and Exchange Commission investigation into Fed officials' trading activity to determine if any trades in the past violated insider trading rules.
+
+
+
+How Heinz uses a fake number to keep its brand timeless
+
+New York (CNN Business)Heinz has been linked to the number 57 for more than a century. The company's "57 varieties" slogan was a key part of its early strategy to attract consumers. It's still featured on Heinz ketchup bottles today and is central to the brand's identity.
+But that famous number is completely made up.
+There weren't 57 Heinz varieties when Pittsburgh business magnate H.J. Heinz first invented the slogan in 1896. Nor when Heinz 57 sauce was introduced soon after. There aren't 57 now. There are, in fact, hundreds of Heinz varieties.
+The 57 on a Heinz bottle is more than just the right spot to smack to make the ketchup ooze out at .028 miles per hour. That number has stuck around for 126 years because it reinforces Heinz as a nostalgic and distinctly American food brand — the condiment you put on your hot dog at a baseball game or on a burger at a summer barbeque, marketing experts say.
+In the early 1890s, H.J. Heinz, once described by a biographer as a "marketing genius," sold bottled horseradish, pickles, pepper sauce, ketchup — introduced by the company in 1876 spelled "catsup" and soon changed to "ketchup" to distinguish the product — among some 60 food items. Pickles were Heinz's biggest success at the time, and he became known as the "pickle king."
+Visiting New York City in 1896, Heinz spotted an advertisement for "21 styles" of shoes. He found it memorable and thought attaching a number to his own brand would help it stick with consumers.
+There are varying theories on why he landed on 57.
+Ashleigh Gibson, Heinz's brand director, said in an email that the company's founder felt there was something "mystical, magical, and memorable" about the number 57, which was a combination of five, his lucky number, and seven, his wife's lucky number.
+But Heinz's personal secretary, who wrote an early biography of his boss, said that when Heinz was counting up the number of varieties the company sold in 1896, the number seven jumped out at him.
+"Seven, seven —there are so many illustrations of the psychological influences of that figure and of its alluring significance to people of all ages and races," Heinz said, according to the biography. "58 Varieties or 59 Varieties did not appeal at all to me as being equally strong."
+Within a week of seeing the shoe ad, the "57 varieties'" slogan was appearing in newspapers and on billboards, Heinz wrote in his diary. The company carved 57 on hillsides for train passengers to see and "57 Good Things For The Table" was featured on the first electric billboard in New York City in 1900. The sign stood six stories high, had 1,200 fluorescent light bulbs and included a 43-foot-long flashing Heinz pickle, according to the Henry Ford Museum of American Innovation.
+"I myself did not realize how highly successful a slogan it was going to be," Heinz said.
+'Good luck charm'
+Today, "57 varieties" is slapped high on the neck of Heinz's octagon-shaped glass tomato ketchup bottles. In the center, "57 varieties" is printed in small gold lettering above a hanging tomato vine on the keystone-shaped label modeled after Heinz's home state. 57 is also featured on Heinz's baked beans, mustard, mayonnaise and cream of tomato soup.
+The slogan is used as a branding device to convey a "sense of timelessness and authenticity" to consumers, Kelly Haws, a marketing professor who studies consumer choices about food at Vanderbilt University, said in an email.
+Gibson said the slogan has become "a brand asset," similar to the company's logo, keystone and glass bottle design, reminding consumers of Heinz' history.
+Heinz and its association with 57 have also served as minor footnotes in US history.
+When Joe DiMaggio's record hit streak ended at 56 games in 1941, the Yankees star reportedly told a teammate that he missed out on $10,000 promised to him by Heinz if he matched its label.
+According to "Demagogue," a 2020 biography of Sen. Joe McCarthy, McCarthy once told a reporter "probably in jest" that when he alleged he had a list of 57 names of communists working in the State Department, he came up with the number from a bottle of Heinz ketchup. It's even is a plot point in the 1962 film "The Manchurian Candidate."
+Then there's the Heinz 57 sauce for steak, chicken and pork, which was memorialized by Jimmy Buffet's "Cheeseburger in Paradise": "I like mine with lettuce and tomato, Heinz 57 and French fried potatoes."
+Noel Geoffrey, who led the Heinz ketchup division from 2008 to 2011, said 57 was "like a good luck charm" at the company. The telephone number for the main switchboard at its previous headquarters — the Heinz 57 Center— was, of course, 57. In 2001, the company paid the Pittsburgh Steelers $57 million over 20 years for naming rights to the stadium.
+"It was everywhere," Geoffrey said, "and part of the DNA of the company."
+Innovation in food marketing
+It may seem commonplace today, but the idea of "57 varieties" was a significant innovation in food marketing at the time. In the late 19th century, packaged and processed foods were a new concept to the public.
+"The big shift was to try to create a consumer population for pre-packaged food," said Rita McGrath, a professor at Columbia Business School who has studied the rise of major food brands. "Before then, food wasn't marketed."
+H.J. Heinz also had to convince consumers that his products were safe during an era before food was regulated. One way he tried to convey quality was to sell his goods in glass jars, so customers could see what was inside.
+His choice of the word "variety" was another attempt to signal that Heinz was experienced in a range of products, suggesting to customers they could trust the brand.
+"Variety has always been a thing Americans love," said Ken Albala, a food historian at the University of the Pacific. "They want choice. Even if it's flavors of the same thing."
+By the beginning of the 20th century, Heinz was America's largest ketchup manufacturer. The brand accounted for roughly 70% of the ketchup market last year, according to Euromonitor data. Hunt's, its closet competitor, had 8%.
+'Comfort in the familiar'
+The famous number has stuck around through more than a century of different advertising campaigns and changes to Heinz packaging.
+It also survived different corporate owners. In 2013, Warren Buffett's Berkshire Hathaway (BRKA) and Brazilian private equity firm 3G Capital bought H.J. Heinz. Two years later, Kraft Foods and H.J. Heinz merged, and the company was renamed Kraft Heinz (KHC).
+"There's a comfort in the familiar," McGrath said. "Once you got something like that that sticks, people are reluctant to change because of the brand association."
+In 2009, Heinz changed the design of its ketchup label for the first time in more than 60 years, replacing the Gherkin pickle that was under the words "tomato ketchup" with a tomato on the vine. Noel Geoffrey, who oversaw the redesign, said there was never any consideration of removing 57 from the label.
+But Emily Ruby, a curator at the Sen. John Heinz History Center in Pittsburgh and author of "57 Servings from the Heinz Table," said she was surprised by the change because Heinz "stuck so long to these symbols of the past."
+When Kraft and Heinz merged in 2015, there was fear in Pittsburgh about losing the link between Heinz and the city. Kraft Heinz has co-headquarters in Pittsburgh and Chicago.
+"There's a sense the company is no longer tied to the history and the region," she said. If Kraft Heinz were to drop the 57, "I think people would be really upset because they like the connection."
+Whenever Ruby gives local talks on H.J. Heinz or the history of the company, she is always asked about the origins of the number. People even offer up their own theories about its meaning.
+"There's still a lot of curiosity out there about it," Ruby said.
+
+
+
+'Uncharted' banks on Tom Holland for a big debut
+
+New York (CNN Business)After swinging through New York City as Spider-Man, Tom Holland returns this weekend with another film that has him dangling from great heights. This time he does so as adventurer and video game mainstay Nathan Drake.
+"Uncharted" — based on a best-selling Sony video game  — hopes to use Holland's star power and the studio's box-office momentum to give the theater industry a boost.
+The film is projected for roughly a $30 million opening over the holiday weekend. Some analysts are predicting that the film could make a tad bit more thanks to the recognition of Holland and the "Uncharted" series. The film brought in $3.7 million for its Thursday previews.
+But how much "Uncharted" will make this weekend is still — like Drake himself — up in the air.
+Sony's secret weapon
+"Uncharted" — which cost $120 million to make and is opening 4,200 locations — has a lot working for it this weekend. That starts with Holland.
+"If Sony has a secret weapon, it may indeed be Tom Holland," Paul Dergarbedian, senior media analyst at Comscore (SCOR), told CNN Business. "But that secret weapon will be tested this weekend."
+Sony (SNE) and Holland are coming off "Spider-Man: No Way Home," which had the second biggest box office opening of all time. It also captivated pop culture for weeks and arguably revitalized the film industry in the middle of a pandemic.
+Since shattering box office records, the Marvel film has become one of Hollywood's most successful blockbusters ever, notching nearly $2 billion worldwide. It just became the third-highest-grossing film in North American history, overtaking "Avatar."
+That's good news for the ticket sales of "Uncharted" because the film has a "halo effect" around it, according to Dergarabedian.
+A film as popular as "No Way Home" could bring in moviegoers to "Uncharted" who love Holland, despite not knowing the difference between Nathan Drake and Peter Parker. ("Uncharted" also stars Mark Wahlberg, so Holland won't have to carry the treasure hunt adventure film on his own.)
+However, a huge question remains: Can Sony nab a boffo box office with Holland not in his spidey suit? That's what the studio is betting on this weekend, and the stakes are high with a potentially new franchise for the studio on the line.
+While "Uncharted" has a lot going for it, it is still a movie based on a video game — a genre that "has had one of the most uneven track records in the history of the box office," according to Dergarabedian.
+Sonic or Super Mario?
+Video game movies have historically been more miss than hit at the ticket booth.
+For every "Sonic The Hedgehog" — which made more than $300 million worldwide in 2020 — there are video game films like "Max Payne," "Doom" and 1993's "Super Mario Bros.," all of which were flops.
+But video games are especially popular with young males, and that demographic has been a "key factor in the recovery of movie theaters over the past year," according to Dergarabedian.
+On top of all of that, "Uncharted" is one of the most popular video game series there is.
+The brand — which has users play as Drake as he takes on exciting Indiana Jones-esque adventures — has multiple sequels and spinoffs for Sony's beloved video game platform, PlayStation. (So that's also a nice piece of synergy for the company as well.)
+This could help "Uncharted" avoid the video game curse at the box office that has plagued many big budget gaming adaptations like it.
+And it doesn't hurt that Sony has been on a winning streak at the box office lately.
+Sony's hot streak
+Sony had a strong 2021, and most of it came in the final three months of the year.
+The studio kicked off October with "Venom: Let There Be Carnage." The film about the Spider-Man villain had a $90 million opening (a pandemic record at the time) and has since brought in more than $500 million globally.
+In November, Sony followed up its Venom success with "Ghostbusters: Afterlife" which made close to $200 million worldwide.
+Then in December, it released "No Way Home."
+That type of momentum could help "Uncharted" this weekend and lead to another strong year for the studio.
+"All of these films seemed impervious to any negative effects that the pandemically challenged marketplace may have thrown at other films," Dergarabedian said. "Now it's 'Uncharted's' turn to see if it can keep Sony's streak going into 2022."
+
+
+
+Why inflation is about to peak
+
+Last year was a tough one for American consumers. Prices for just about everything, from eggs to used cars to electricity, crept higher, and by the end of the year were up 7% from a year earlier.
+Unfortunately, that number went even higher last month, with the Consumer Price Index (CPI) hitting 7.5% year-over-year in January, a 40-year high. But there is good news: This alarmingly high inflation number should begin to drop soon.
+When the Omicron variant started to spread, it greatly disrupted the economy as millions of workers called in sick or quarantined. This exacerbated the inflation trends that we saw earlier in 2020. There weren't enough factory workers to make things, there weren't enough truck drivers to make deliveries, and there weren't enough clerks to restock shelves. This created shortages, which in turn jacked up prices on a range of goods, including milk, ham, dishware and even textbooks. I saw this when I went shopping last month. You probably did as well.
+Meanwhile, demand for goods held up despite the recent Omicron wave. Recently published retail sales data showed strong consumer spending in January. This was consistent with The Conference Board's Present Situation Index, which gauges current consumer sentiment. The index showed rising spending intentions for large items, like homes, automobiles and major appliances. This willingness to spend made shortages (and price gains) that much more acute last month.
+However, with new Covid-19 cases plummeting, many of these disruptions should start to ease and allow supply to strengthen and better meet demand — meaning more modest inflation. That could make shopping for your summer wardrobe, buying a new grill and loading up on hamburger buns easier to stomach as the weather improves. With fewer people getting sick, there should be more workers in the transportation sector (truckers and dock workers, for instance) — helping to get goods from producers to consumers. Staffing disruptions at factories and on farms should improve as well. Furthermore, as more Americans feel comfortable spending on services, like going to the movies, to theme parks or to local restaurants, some of the elevated demand for goods seen over the course of the pandemic should come down a bit too. This should also help moderate inflation — provided that the service sector can handle the return of these customers.
+To be clear, the latest frighteningly high year-over-year inflation reading — the one that always makes headlines — will take some time to reflect these easing disruptions. That's because this annual number includes all of the month-over-month price gains we've seen over the last 12 months. So, it will take time for the math to catch up with the reality. I expect to see the annual inflation number start to tick down when the March CPI data is released.
+That said, some goods will indeed remain expensive for quite a while. New car prices, for instance, are unlikely to come down anytime soon. That's because of a global shortage in semiconductors, which will take some time to solve. Home prices will probably continue to rise as well, though perhaps at a slower rate. That's largely thanks to both rising demand from aging millennials and chronic underbuilding in the decade following the financial crisis.
+The reality is that the pandemic's impact on supply chains, energy prices, transportation costs and consumer spending patterns will take a year (or longer) to normalize. Additionally, the Federal Reserve's more hawkish stance on monetary policy will take time to implement and still more time to impact prices. Beyond that, other factors will likely keep inflation from falling back to pre-pandemic rates. Rapidly rising wages associated with labor market tightness, for instance, will be with us for quite some time.
+The good news is that consumers can take some solace knowing that large price increases won't go on forever. The pandemic seems to be easing, and high inflation will, too.
+
+
+
+Beijing says it is 'seriously concerned' as India cracks down on Chinese companies
+
+New Delhi (CNN Business)Beijing said that it is "seriously concerned" about actions India has taken against Chinese companies this week, including banning apps.
+"Indian authorities have taken a series of repressive measures against Chinese companies and related products in India, which has seriously damaged the legitimate rights and interests of Chinese companies," said Gao Feng, spokesman for the Ministry of Commerce, during a press conference in Beijing on Thursday.
+The rebuke comes days after India blocked access to 54 apps in the country over security concerns, according to details shared this week with CNN Business by a senior government representative from the Ministry of Electronics and Information Technology.
+Many of the banned apps are Chinese, belonging to tech companies such as Tencent, Alibaba and NetEase, Bloomberg reported, quoting unnamed sources.
+Additionally, this week Chinese firm Huawei said India's tax authorities "visited" its office in the country and met with some Huawei personnel.
+"Huawei is confident our operations in India is firmly compliant to all laws and regulations," the telecoms equipment maker said, adding that it will cooperate with the Indian government.
+While the company did not give any other details, Reuters reported — quoting an unnamed source — that tax authorities conducted searches at the tech giant's offices in New Delhi, Gurugram and Bangalore on Tuesday.
+"Officials from the income tax department looked at Huawei's financial documents, account books and company records, Indian businesses and overseas transactions, " Reuters added, citing local media reports. "Some records were also seized."
+The income tax department did not respond to a request for comment.
+This is not the first time India has banned Chinese apps. In 2020, India banned more than 200 mostly Chinese apps, including the wildly popular video platform TikTok.
+While the Indian government's statement on the TikTok ban had not mentioned China by name, it had come at a time when military tensions between the two countries were escalating following deadly border clashes. At the time, many Indians had called for a boycott of Chinese goods and services, particularly from China's dominant tech industry.
+Vedika Sud contributed reporting, along with the Beijing and New Delhi bureaus.
+
+
+
+US lifts ban on Mexican avocados
+
+(CNN)The United States is resuming its avocado inspection program in Mexico's Michoacán state a week after imposing a temporary ban in response to a US inspector receiving a death threat.
+The Department of Agriculture's Animal and Plant Health Inspection Service said Friday that it was working closely with Mexican authorities to enact enhanced safety measures for inspectors working in the fields.
+Michoacán is the only state in Mexico authorized to export avocados to the United States, and approximately 80% of its avocados go to US markets.
+The state's governor, Alfredo Ramirez Bedolla, said Friday he was pleased with the US government's decision to resume its avocado inspection program.
+"With this decision we ensure the export of the fruit and give economic certainty to farmers and laborers," he tweeted.
+
+
+
+Home prices up 15.4% in January from a year ago
+
+Home prices climbed in January as inventory fell to a new record low.
+The median price for a home last month was $350,300, up 15.4% from a year ago, according to the National Association of Realtors. It was not the highest median price on record, which was $362,800 last June, but it is the highest for the month of January, which tends to be a sleepier time for home sales.
+"Buyers were likely anticipating further rate increases and locking in at the low rates, and investors added to overall demand with all-cash offers," said Lawrence Yun, NAR's chief economist. "Consequently, housing prices continue to move solidly higher."
+Sales of existing homes -- which include single-family homes, townhomes, condominiums and co-ops -- surged 6.7% from December, but were down 2.3% from a year ago, largely because there were so few homes to buy.
+At the end of January, the inventory of homes available to buy fell to an all-time low of 860,000, down 16.5% from last year. That's the lowest since NAR began tracking it in 1999. At the current monthly sales pace, supply would last just 1.6 months, which is also a record low.
+"The inventory of homes on the market remains woefully depleted," Yun said.
+But the availability and affordability of homes depends greatly on price level.
+Homes priced at $500,000 and below are disappearing, Yun said, while supply has risen at the higher price range. Such increases will continue to shift the mix of buyers toward high-income consumers and push out first-time homebuyers, he said.
+"There are more listings at the upper end -- homes priced above $500,000 -- compared to a year ago, which should lead to less hurried decisions by some buyers," Yun added. "Clearly, more supply is needed at the lower-end of the market in order to achieve more equitable distribution of housing wealth."
+Fewer first-time homebuyers, more investors
+The share of first-time homebuyers in the market was near all-time lows.
+Only 27% of sales in January were to first-time homebuyers, which was down from 33% a year ago.
+At the same time, individual investors or second-home buyers bought 22% of homes in January, up from 15% a year ago. More than a quarter of home sales in January were all cash, up from 19% a year ago.
+As prospective home buyers seek out greater job opportunities and affordability, Yun said more people are moving to the South and Sunbelt, pushing the number of sales and prices higher there.
+Existing home sales in the South jumped 9.3% in January from December. The median price in the region was $312,400, up 18.7% from a year ago. For the fifth straight month, the South had the highest pace of appreciation.
+"The migration to the southern states is clearly getting reflected in higher home sales and fast rising home prices compared to other regions," Yun said.
+Race against rising mortgage rates
+Also creating urgency in the housing market are rising mortgage rates. Last month, homebuyers raced to lock in lower mortgage rates, which have been inching closer to 4%.
+Properties were typically on the market for just 19 days in January. That's slightly slower than the record fast pace of 17 days over the summer. But It's faster than a year ago, when homes sold in an average of 21 days. More than three-quarters of homes sold in January 2022 were on the market for less than a month.
+Yun said rising mortgage rates are problematic for at least two groups in the market.
+"First, some moderate-income buyers who barely qualified for a mortgage when interest rates were lower will now be unable to afford a mortgage," he said. "Second, consumers in expensive markets, such as California and the New York City metro area, will feel the sting of nearly an additional $500 to $1,000 in monthly payments due to rising rates."
+But so far, buyer activity has been resilient, said Danielle Hale, Realtor.com's chief economist, even in the face of factors that could additionally squeeze housing budget priorities, including rising rates and inflation.
+"Housing market momentum will be tested by rising mortgage rates in 2022," said Hale.
+"Our expectation is that we'll continue to see home sales at a relatively high level throughout 2022, as post-pandemic shifts, like rising workplace flexibility, enable would-be buyers to expand their geographic search horizons and find an affordable place to call home," said Hale.
+
+
+
+A cargo ship full of luxury cars is on fire and adrift in the middle of the Atlantic
+
+New York (CNN Business)An abandoned cargo ship packed with cars is adrift in the Atlantic Ocean, after a rapidly-spreading fire on board forced the crew to escape.
+The 656 foot-long Felicity Ace roll-on/roll-off car-carrying ship caught fire in the North Atlantic on Wednesday as it carried cargo, including Porsches and Volkswagens, from Emden, Germany to Davisville, Rhode Island. At the time of the fire's outbreak, the ship was sailing 90 nautical miles southwest of Portugal's Azores, according to a statement on Wednesday by the Portuguese Navy.
+After the fire broke out in the cargo hold, it spread and forced all 22 crew members to abandon ship. According to another statement by the Portuguese Navy, the crew was safely picked up and taken to a local hotel, with the rescue coordinated by the Ponta Delgada Maritime Search and Rescue Coordination Center. There has been no noticeable source of pollution from the fire, according to the statement.
+The ship's owners have arranged for a tow as it continues to burn. Registered to Panama, the Felicity Alice is operated by Japanese shipping line Mitsui O.S.K. Lines (MOL). MOL has not responded to request for comment.
+Porsche confirmed to CNN Business that a number of its cars were among the cargo and that customers with cars on board the burning ship are being contacted by their dealers.
+"While it remains too early to confirm what occurred and next steps, we are -- along with our colleagues at Porsche AG -- supporting our customers and our dealers as best we can to find solutions," said Angus Fitton, Vice President of PR at Porsche Cars North America. "We are in contact with the shipping company and the details of the cars on board are now known."
+Expectant Porsche owners with cars on board like journalist and host Matt Farah, who said he had a 2022 Porsche Boxster Spyder awaiting delivery, have already started receiving word from dealerships about the status of their vehicles.
+"The dealer confirmed that my car, along with at least a dozen other vehicles they were expecting, is on that boat," Farah said. "They had no further information for me beyond confirming my car was on the boat, and said that as soon as Porsche Cars North America has a plan of any kind with how to proceed, that they would share the plans with me."
+Volkswagen also has customers awaiting vehicles on the burning cargo ship. "We are aware of an incident involving a third-party cargo ship transporting Volkswagen Group vehicles across the Atlantic. The vessel was on its way to North America," said Dirk Ameer, a Volkswagen spokesperson. "At this time, we are not aware of any injuries. We are in contact with the shipping company to get more information about the incident."
+The Felicity Ace can carry over 17,000 metric tons of cargo, according to the Associated Press, with possibly thousands of cars on board . The Portugese Navy said that as of Thursday, the fire is ongoing, and an ocean patrol vessel remains on site to monitor the abandoned ship.
+
+
+
+How cryptocurrencies could trigger a financial crisis
+
+London (CNN Business)Gone are the days when bitcoin, ether and other cryptocurrencies could be thought of as a niche corner of financial markets.
+What's happening: In a new report, the Financial Stability Board — an international body that brings together regulators from 24 countries and jurisdictions — said that the "fast evolving" crypto market could quickly reach a point where it becomes a "threat to global financial stability" due to its size, structural vulnerabilities and growing ties to the traditional financial system.
+"Financial stability risks could rapidly escalate," the group said this week, adding that policymakers needed to step up.
+The assessment comes as banks and other big market players ramp up their exposure to crypto due to requests from clients, despite its volatility.
+On Thursday, bitcoin plunged almost 8% as the broader market sold off. The same day, Sequoia Capital said it was ramping up its crypto business with a new $500 million to $600 million fund. The venture capital giant said it would be "focused primarily on liquid tokens and digital assets."
+"Systemically important banks and other financial institutions are increasingly willing to undertake activities in, and gain exposures to, crypto-assets," the FSB said. "If the current trajectory of growth in scale and interconnectedness of crypto-assets to these institutions were to continue, this could have implications for global financial stability."
+The state of play: In 2021, the market for crypto-assets at one point more than tripled to $2.6 trillion. That's still relatively small. Global stock markets, for comparison, were last valued at more than $120 trillion.
+Why, then, is the FSB sounding the alarm? The group said that because big players are getting involved, significant swings in the crypto market could trigger a series of unexpected events. It even drew a comparison to trades tied to the housing market which helped unleash the 2008 financial crisis.
+"As in the case of the US subprime mortgage crisis, a small amount of known exposure does not necessarily mean a small amount of risk, particularly if there [is] a lack of transparency and insufficient regulatory coverage," the FSB wrote.
+Watch this space: After a slow start, governments could begin to get more aggressive. Yahoo! News reported Thursday that US President Joe Biden could issue an executive order next week instructing agencies to study crypto and develop a government-wide strategy to regulate digital assets.
+Earlier this month, Congress held a hearing on the regulation of stablecoins. These are digital assets whose value is pegged to other currencies or commodities.
+But UBS doesn't think investors should hold their breath for clearer guidance from lawmakers any time soon.
+"Regulators could be waiting a long time for Congressional action and in the meantime will need to grapple with these issues using the limited and imperfect authorities they already have," the Swiss bank said last week.
+Investors nervously eye the Ukrainian border
+Global markets stabilized on Friday after the threat of a potential Russian invasion of Ukraine propelled the Dow to its worst day of 2022.
+But uncertainty over what will happen next — and what it could mean for investors — is lingering.
+The latest: Biden said Thursday he believes an invasion of Ukraine could happen "within the next several days," while his administration's top diplomat warned that Russia has not withdrawn troops, despite Moscow's claims.
+The developments helped send the Dow down 1.8%, while the S&P 500 dropped 2.1% and the Nasdaq Composite shed 2.9%.
+"Investors, wary of any bad news, have been unable to maintain positive momentum in equity markets across the globe as geopolitical risks dominate headlines," said Peter Essele, head of portfolio management for Commonwealth Financial Network.
+He added that "a further escalation of tensions in the near term could roil markets," which are already on edge about kinks in the global supply chain as the Federal Reserve prepares to hike interest rates for the first time in years.
+On the radar: The price of gold rose 1.5% on Thursday, though it's pulled back slightly on Friday. It's now trading near $1,890, just below its highest level since June.
+The yellow metal, a common safe-haven investment, is getting a lift from uncertainty about the situation in Ukraine, along with anxiety about rising inflation that can trigger a rush for physical assets.
+Will New York City's offices ever be full again?
+New York City Mayor Eric Adams made a call to workers this week: Head back into the office. Please.
+Adams said at a press conference that in America's biggest city, return-to-office progress peaked at over 35% in early December but crashed to just over 10% by January as fears about the Omicron variant rose. It "still has not recovered," he said.
+Why it matters: "When employees don't return to work, they don't eat lunch at a nearby restaurant, shop at a local store or take their clothes to the dry cleaners," Adams said. "Our business districts suffer, and it slows the recovery."
+He added that because of remote work, office vacancy rates are at a 40-year high — equivalent to more than 83 million square feet of empty space.
+But Adams probably shouldn't hold his breath for workers to go back to the routines they had before the pandemic.
+According to a Pew survey released this week, 59% of Americans with jobs that can be done remotely say they're still working from home much or all of the time. Before Covid-19, that number was 23%.
+And crucially, 60% of workers with jobs that can be done from home say they'd like to work from home all or most of the time when the pandemic is over, if given the choice. That's up from 54% in 2020.
+The biggest reason cited? It's just their preference now.
+Up next
+Bloomin' Brands (BLMN), DraftKings and Deere (DE) report results before US markets open.
+Also today: Existing home sales for January arrive at 10 a.m. ET.
+Coming next week: It's time for retail earnings. Results are due from Macy's (M), Home Depot (HD), Lowe's (LOW), Bath & Body Works and TJX (TJX).
+
+
+
+Snapchat launches a real-time location sharing feature
+
+New York  (CNN)Snapchat on Friday announced a buddy system-like feature that allows its users to share their real-time location with friends for a period of time.
+The safety feature is being rolled out as more people are returning to school campuses, traveling, going out on dates and otherwise resuming what they did before the pandemic, the company said. The feature, which is similar to Apple (AAPL)'s Find My app, allows users to share their real-time locations with a friend for 15 minutes, one hour or up to eight hours.
+Snapchat partnered with It's On Us, a nonprofit founded in 2014 to combat sexual assault on campuses, in creating the feature.
+Since 2017, Snapchat has allowed users to share their locations with friends on its Snap Map feature, which updates a location only when the user has the app open. The company said 250 million users utilize Snap Map each month.
+Last May, Snapchat said it reached 500 million monthly active users. According to a survey conducted by the company, 78% of its US app users wouldn't hesitate to share their locations on Snap Map, and most do it as a safe way to connect to others.
+Like the Snap Map, the new feature will remain off by default. Snapchatters can turn on their location "in an instant," the company said, but only with specific friends. To reduce the risk of stalking, the company has limited the amount of time and with whom Snapchatters can share their instant location.
+Snapchatters can start using the feature by going to a friend's profile and tapping on a new option that allows for live sharing. The app provides an pop-up PSA that advises users that the feature should be shared only with trusted friends and family.
+The company also announced this week that Snapchatters can change their usernames starting at the end of February -- a feature previously unavailable in the US.
+
+
+
+Here's why a whole group of men is being overlooked in the workforce
+
+New York (CNN Business)The labor shortage has been a defining feature of the pandemic job market and it's not getting better any time soon. But there is a whole group of workers who are being overlooked even though they could be part of the solution.
+Criminal records are keeping certain workers from finding good jobs. This is particularly true of men in their 30s.
+More than half of that group has a history of criminal conviction or arrest that keeps them from fully participating in the labor market, a study from nonprofit research group RAND Corporation released Friday found. As of January, just over one million men between the ages of 24 and 35 were counted as unemployed, the biggest group of jobless males, according to the Bureau of Labor Statistics.
+By 35, some 64% of unemployed men have been arrested, and about 46% have been convicted of a crime, according to the study. Nearly a third of American adults have been arrested at least once, a far higher level than in comparable Western European countries.
+"Employers need to understand that one big reason they cannot find the workers they need is too often they exclude those who have had involvement with the criminal justice system," said Shawn Bushway, the study's lead author and a senior policy researcher at RAND.
+"Most employers believe that most people with criminal histories will commit offenses again. But that is not the case," Bushway said. "And the risk of re-offending drops dramatically as people spend more time free in the community without a new conviction. Employers need to adopt a more-nuanced approach to the issue."
+One complication is that the severity of the crime is not taken into consideration. If businesses draw the line at any criminal record, applicants arrested for a minor offense, such as possession of marijuana, get lumped in with applicants with more serious convictions like a series of assaults.
+Some convictions might disqualify a candidate from a certain job — for example, a person convicted of violent crimes might not be permitted to drive a school bus. But there are many Americans convicted of drug offenses concerning substances that have since been decriminalized in some states. Yet, their records still exist.
+Discrimination against people with criminal records isn't new. A recent study from the Census Bureau looking at unemployment and criminal histories around the time of the Great Recession found that workers with felony convictions were some 10 percentage points less likely to be employed compared with peers without records. Workers released from prison were even less likely than their peers to find a job.
+Policy efforts like Ban the Box that stop companies from asking about criminal histories on applications don't really solve the problem either because it's easy to check records through publicly available commercial databases, according to RAND.
+Leaving workers behind
+The issue of finding workers has taken on more urgency in recent months, as the pandemic has left America with nearly 11 million open jobs and nowhere near that number of people to fill them. Covid has led many workers to leave the workforce early, hold out for better working conditions, or remain at home to care for family members and avoid exposure to the virus. There are currently only 58 unemployed workers for every 100 open positions, according to ZipRecruiter.
+Without a more concerted effort to reintegrate workers with criminal histories into the labor force, employers are losing out on a big pool of willing workers.
+Among unemployed men aged 30 to 38 in 2017, the majority had been arrested at least once, while nearly 40% had been convicted at least once. More than 20% of the group had been imprisoned.
+On top of that come the racial disparities in America's criminal justice system. In the studied group, it was 33% more common for Black men -- both employed and unemployed -- to have been arrested compared with White men at every age from 18 to 35. Hispanic men also had higher rates of arrest, conviction and incarceration compared with White men.
+Higher rates of criminal histories paired with racism and discrimination in the labor market put these workers at a severe disadvantage.
+This is also notable because the number of jobs for men without a college degree has changed significantly since the mid-20th century, especially with the advent of globalization in the manufacturing industry. America's transition from a manufacturing to a services economy has meant fewer well-paid blue collar jobs
+Government programs that focus on workplace training and building skills for the unemployed are missing the point in a big way, according to Bushway.
+"The unemployment system almost never looks at the role that criminal history plays in keeping people out of the workforce," she said.
+
+
+
